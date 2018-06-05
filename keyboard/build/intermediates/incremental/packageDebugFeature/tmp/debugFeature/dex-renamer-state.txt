@@ -1,0 +1,4 @@
+#Tue Jun 05 15:51:03 PKT 2018
+base.0=/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/intermediates/transforms/dexMerger/feature/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

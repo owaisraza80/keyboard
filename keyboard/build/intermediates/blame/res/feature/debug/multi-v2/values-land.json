@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/104d9e7133fb1a673ab7bdc4b97520d1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "42",
+                        "endOffsets": "366"
+                    }
+                }
+            ]
+        }
+    ]
+}
