@@ -2,13 +2,13 @@
 <instant-run
     build-mode="FULL"
     format="10"
-    plugin-version="3.1.2"
-    timestamp="1528195159368"
+    plugin-version="3.0.1"
+    timestamp="1528198503757"
     verifier="NOT_RUN" >
 
     <task
         name="javac"
-        duration="1885" />
+        duration="2914" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -20,16 +20,16 @@
         duration="0" />
 
     <artifact
-        location="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/outputs/apk/feature/debug/keyboard2-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/outputs/apk/feature/debug/keyboard-debug.apk"
+        type="MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1528195159368"
+        timestamp="1528198503757"
         verifier="NOT_RUN" >
         <artifact
-            location="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/outputs/apk/feature/debug/keyboard2-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/outputs/apk/feature/debug/keyboard-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

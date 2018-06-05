@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/78ab9d6c69ac7305ac04671ece98123395375d1c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/78ab9d6c69ac7305ac04671ece98123395375d1c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/78ab9d6c69ac7305ac04671ece98123395375d1c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/78ab9d6c69ac7305ac04671ece98123395375d1c/output/res/layout-v21/notification_action.xml"
+    }
+]

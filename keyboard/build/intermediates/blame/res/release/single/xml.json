@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/qwerty.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_en_qwerty.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en_qwerty.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/symbols_ar.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/symbols_ar.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/arabic.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/arabic.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_ar_ma.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_ar_ma.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_ar.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_ar.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/urdu.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/urdu.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_ur_pk.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_ur_pk.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_en_ng.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en_ng.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_en_ph.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en_ph.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/softkeys_input_en.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/symbols_shift.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/release/xml/keyboard_popup_layout.xml",
+        "source": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/keyboard_popup_layout.xml"
+    }
+]

@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
-                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7f4e425ba67dd35c1dc3111cebcd3839/res/values-ro/values-ro.xml",
+                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8922e10f004dd77f142dfea5268586ae/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,226,330,443,531,643,764,849,930,1013,1125,1238,1338,1452,1557,1663,1827,1930",
+                        "endColumns": "120,103,112,87,111,120,84,80,82,111,112,99,113,104,105,163,102,82",
+                        "endOffsets": "221,325,438,526,638,759,844,925,1008,1120,1233,1333,1447,1552,1658,1822,1925,2008"
+                    }
+                },
+                {
+                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/426b24c53aab252097f81c0c4c845634/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2013",
                         "endColumns": "100",
                         "endOffsets": "2109"
-                    }
-                },
-                {
-                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/104d9e7133fb1a673ab7bdc4b97520d1/res/values-ro/values-ro.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,226,330,443,531,643,764,849,930,1013,1125,1238,1338,1452,1557,1663,1827,1930",
-                        "endColumns": "120,103,112,87,111,120,84,80,82,111,112,99,113,104,105,163,102,82",
-                        "endOffsets": "221,325,438,526,638,759,844,925,1008,1120,1233,1333,1447,1552,1658,1822,1925,2008"
                     }
                 }
             ]

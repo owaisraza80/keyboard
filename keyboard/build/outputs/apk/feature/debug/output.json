@@ -1,1 +1,1 @@
-[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"keyboard2-debug.apk","fullName":"debugFeature","baseName":"debug"},"path":"keyboard2-debug.apk","properties":{}}]
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"keyboard-debug.apk","properties":{"packageId":"net.dawateislami.keyboard","split":"","minSdkVersion":"19"}}]

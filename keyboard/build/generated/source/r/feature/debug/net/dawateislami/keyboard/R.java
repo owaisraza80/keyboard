@@ -2501,8 +2501,8 @@ public final class R {
     public static final int Base_Animation_AppCompat_Dialog=0x7f0c0008;
     public static final int Base_Animation_AppCompat_DropDownUp=0x7f0c0009;
     public static final int Base_Animation_AppCompat_Tooltip=0x7f0c000a;
-    public static final int Base_DialogWindowTitle_AppCompat=0x7f0c000b;
     public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f0c000c;
+    public static final int Base_DialogWindowTitle_AppCompat=0x7f0c000b;
     public static final int Base_TextAppearance_AppCompat=0x7f0c000d;
     public static final int Base_TextAppearance_AppCompat_Body1=0x7f0c000e;
     public static final int Base_TextAppearance_AppCompat_Body2=0x7f0c000f;
@@ -2551,20 +2551,6 @@ public final class R {
     public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0c003a;
     public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0c003b;
     public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0c003c;
-    public static final int Base_Theme_AppCompat=0x7f0c003d;
-    public static final int Base_Theme_AppCompat_CompactMenu=0x7f0c003e;
-    public static final int Base_Theme_AppCompat_Dialog=0x7f0c003f;
-    public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f0c0040;
-    public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f0c0041;
-    public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f0c0042;
-    public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f0c0043;
-    public static final int Base_Theme_AppCompat_Light=0x7f0c0044;
-    public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f0c0045;
-    public static final int Base_Theme_AppCompat_Light_Dialog=0x7f0c0046;
-    public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f0c0047;
-    public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f0c0048;
-    public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f0c0049;
-    public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f0c004a;
     public static final int Base_ThemeOverlay_AppCompat=0x7f0c004b;
     public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f0c004c;
     public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f0c004d;
@@ -2572,16 +2558,30 @@ public final class R {
     public static final int Base_ThemeOverlay_AppCompat_Dialog=0x7f0c004f;
     public static final int Base_ThemeOverlay_AppCompat_Dialog_Alert=0x7f0c0050;
     public static final int Base_ThemeOverlay_AppCompat_Light=0x7f0c0051;
+    public static final int Base_Theme_AppCompat=0x7f0c003d;
+    public static final int Base_Theme_AppCompat_CompactMenu=0x7f0c003e;
+    public static final int Base_Theme_AppCompat_Dialog=0x7f0c003f;
+    public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f0c0043;
+    public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f0c0040;
+    public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f0c0041;
+    public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f0c0042;
+    public static final int Base_Theme_AppCompat_Light=0x7f0c0044;
+    public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f0c0045;
+    public static final int Base_Theme_AppCompat_Light_Dialog=0x7f0c0046;
+    public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f0c004a;
+    public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f0c0047;
+    public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f0c0048;
+    public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f0c0049;
+    public static final int Base_V11_ThemeOverlay_AppCompat_Dialog=0x7f0c0054;
     public static final int Base_V11_Theme_AppCompat_Dialog=0x7f0c0052;
     public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f0c0053;
-    public static final int Base_V11_ThemeOverlay_AppCompat_Dialog=0x7f0c0054;
     public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f0c0055;
     public static final int Base_V12_Widget_AppCompat_EditText=0x7f0c0056;
+    public static final int Base_V21_ThemeOverlay_AppCompat_Dialog=0x7f0c005b;
     public static final int Base_V21_Theme_AppCompat=0x7f0c0057;
     public static final int Base_V21_Theme_AppCompat_Dialog=0x7f0c0058;
     public static final int Base_V21_Theme_AppCompat_Light=0x7f0c0059;
     public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f0c005a;
-    public static final int Base_V21_ThemeOverlay_AppCompat_Dialog=0x7f0c005b;
     public static final int Base_V22_Theme_AppCompat=0x7f0c005c;
     public static final int Base_V22_Theme_AppCompat_Light=0x7f0c005d;
     public static final int Base_V23_Theme_AppCompat=0x7f0c005e;
@@ -2589,11 +2589,11 @@ public final class R {
     public static final int Base_V26_Theme_AppCompat=0x7f0c0060;
     public static final int Base_V26_Theme_AppCompat_Light=0x7f0c0061;
     public static final int Base_V26_Widget_AppCompat_Toolbar=0x7f0c0062;
+    public static final int Base_V7_ThemeOverlay_AppCompat_Dialog=0x7f0c0067;
     public static final int Base_V7_Theme_AppCompat=0x7f0c0063;
     public static final int Base_V7_Theme_AppCompat_Dialog=0x7f0c0064;
     public static final int Base_V7_Theme_AppCompat_Light=0x7f0c0065;
     public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f0c0066;
-    public static final int Base_V7_ThemeOverlay_AppCompat_Dialog=0x7f0c0067;
     public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f0c0068;
     public static final int Base_V7_Widget_AppCompat_EditText=0x7f0c0069;
     public static final int Base_V7_Widget_AppCompat_Toolbar=0x7f0c006a;
@@ -2609,13 +2609,13 @@ public final class R {
     public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0c0074;
     public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f0c0075;
     public static final int Base_Widget_AppCompat_Button=0x7f0c0076;
+    public static final int Base_Widget_AppCompat_ButtonBar=0x7f0c007c;
+    public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f0c007d;
     public static final int Base_Widget_AppCompat_Button_Borderless=0x7f0c0077;
     public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f0c0078;
     public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0c0079;
     public static final int Base_Widget_AppCompat_Button_Colored=0x7f0c007a;
     public static final int Base_Widget_AppCompat_Button_Small=0x7f0c007b;
-    public static final int Base_Widget_AppCompat_ButtonBar=0x7f0c007c;
-    public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f0c007d;
     public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f0c007e;
     public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f0c007f;
     public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0c0080;
@@ -2674,12 +2674,12 @@ public final class R {
     public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f0c00b5;
     public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f0c00b6;
     public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f0c00b7;
+    public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f0c00bd;
     public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f0c00b8;
     public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f0c00b9;
     public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f0c00ba;
     public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f0c00bb;
     public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f0c00bc;
-    public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f0c00bd;
     public static final int RtlUnderlay_Widget_AppCompat_ActionButton=0x7f0c00be;
     public static final int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow=0x7f0c00bf;
     public static final int TextAppearance_AppCompat=0x7f0c00c0;
@@ -2738,27 +2738,6 @@ public final class R {
     public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0c00f5;
     public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0c00f6;
     public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0c00f7;
-    public static final int Theme_AppCompat=0x7f0c00f8;
-    public static final int Theme_AppCompat_CompactMenu=0x7f0c00f9;
-    public static final int Theme_AppCompat_DayNight=0x7f0c00fa;
-    public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f0c00fb;
-    public static final int Theme_AppCompat_DayNight_Dialog=0x7f0c00fc;
-    public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f0c00fd;
-    public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f0c00fe;
-    public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f0c00ff;
-    public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f0c0100;
-    public static final int Theme_AppCompat_Dialog=0x7f0c0101;
-    public static final int Theme_AppCompat_Dialog_Alert=0x7f0c0102;
-    public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0c0103;
-    public static final int Theme_AppCompat_DialogWhenLarge=0x7f0c0104;
-    public static final int Theme_AppCompat_Light=0x7f0c0105;
-    public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0c0106;
-    public static final int Theme_AppCompat_Light_Dialog=0x7f0c0107;
-    public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0c0108;
-    public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0c0109;
-    public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0c010a;
-    public static final int Theme_AppCompat_Light_NoActionBar=0x7f0c010b;
-    public static final int Theme_AppCompat_NoActionBar=0x7f0c010c;
     public static final int ThemeOverlay_AppCompat=0x7f0c010d;
     public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0c010e;
     public static final int ThemeOverlay_AppCompat_Dark=0x7f0c010f;
@@ -2766,6 +2745,27 @@ public final class R {
     public static final int ThemeOverlay_AppCompat_Dialog=0x7f0c0111;
     public static final int ThemeOverlay_AppCompat_Dialog_Alert=0x7f0c0112;
     public static final int ThemeOverlay_AppCompat_Light=0x7f0c0113;
+    public static final int Theme_AppCompat=0x7f0c00f8;
+    public static final int Theme_AppCompat_CompactMenu=0x7f0c00f9;
+    public static final int Theme_AppCompat_DayNight=0x7f0c00fa;
+    public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f0c00fb;
+    public static final int Theme_AppCompat_DayNight_Dialog=0x7f0c00fc;
+    public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f0c00ff;
+    public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f0c00fd;
+    public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f0c00fe;
+    public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f0c0100;
+    public static final int Theme_AppCompat_Dialog=0x7f0c0101;
+    public static final int Theme_AppCompat_DialogWhenLarge=0x7f0c0104;
+    public static final int Theme_AppCompat_Dialog_Alert=0x7f0c0102;
+    public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0c0103;
+    public static final int Theme_AppCompat_Light=0x7f0c0105;
+    public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0c0106;
+    public static final int Theme_AppCompat_Light_Dialog=0x7f0c0107;
+    public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0c010a;
+    public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0c0108;
+    public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0c0109;
+    public static final int Theme_AppCompat_Light_NoActionBar=0x7f0c010b;
+    public static final int Theme_AppCompat_NoActionBar=0x7f0c010c;
     public static final int Widget_AppCompat_ActionBar=0x7f0c0114;
     public static final int Widget_AppCompat_ActionBar_Solid=0x7f0c0115;
     public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0c0116;
@@ -2778,13 +2778,13 @@ public final class R {
     public static final int Widget_AppCompat_ActivityChooserView=0x7f0c011d;
     public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0c011e;
     public static final int Widget_AppCompat_Button=0x7f0c011f;
+    public static final int Widget_AppCompat_ButtonBar=0x7f0c0125;
+    public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f0c0126;
     public static final int Widget_AppCompat_Button_Borderless=0x7f0c0120;
     public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f0c0121;
     public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0c0122;
     public static final int Widget_AppCompat_Button_Colored=0x7f0c0123;
     public static final int Widget_AppCompat_Button_Small=0x7f0c0124;
-    public static final int Widget_AppCompat_ButtonBar=0x7f0c0125;
-    public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f0c0126;
     public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f0c0127;
     public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f0c0128;
     public static final int Widget_AppCompat_CompoundButton_Switch=0x7f0c0129;
@@ -2849,35 +2849,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background net.dawateislami.keyboard1:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit net.dawateislami.keyboard1:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked net.dawateislami.keyboard1:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd net.dawateislami.keyboard1:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions net.dawateislami.keyboard1:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft net.dawateislami.keyboard1:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight net.dawateislami.keyboard1:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart net.dawateislami.keyboard1:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation net.dawateislami.keyboard1:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout net.dawateislami.keyboard1:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions net.dawateislami.keyboard1:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider net.dawateislami.keyboard1:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation net.dawateislami.keyboard1:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height net.dawateislami.keyboard1:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll net.dawateislami.keyboard1:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator net.dawateislami.keyboard1:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout net.dawateislami.keyboard1:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon net.dawateislami.keyboard1:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle net.dawateislami.keyboard1:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding net.dawateislami.keyboard1:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo net.dawateislami.keyboard1:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode net.dawateislami.keyboard1:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme net.dawateislami.keyboard1:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding net.dawateislami.keyboard1:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle net.dawateislami.keyboard1:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle net.dawateislami.keyboard1:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle net.dawateislami.keyboard1:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title net.dawateislami.keyboard1:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle net.dawateislami.keyboard1:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background net.dawateislami.keyboard:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit net.dawateislami.keyboard:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked net.dawateislami.keyboard:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd net.dawateislami.keyboard:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions net.dawateislami.keyboard:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft net.dawateislami.keyboard:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight net.dawateislami.keyboard:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart net.dawateislami.keyboard:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation net.dawateislami.keyboard:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout net.dawateislami.keyboard:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions net.dawateislami.keyboard:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider net.dawateislami.keyboard:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation net.dawateislami.keyboard:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height net.dawateislami.keyboard:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll net.dawateislami.keyboard:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator net.dawateislami.keyboard:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout net.dawateislami.keyboard:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon net.dawateislami.keyboard:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle net.dawateislami.keyboard:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding net.dawateislami.keyboard:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo net.dawateislami.keyboard:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode net.dawateislami.keyboard:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme net.dawateislami.keyboard:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding net.dawateislami.keyboard:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle net.dawateislami.keyboard:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle net.dawateislami.keyboard:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle net.dawateislami.keyboard:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title net.dawateislami.keyboard:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle net.dawateislami.keyboard:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -2919,380 +2919,6 @@ public final class R {
         0x7f0200aa, 0x7f0200c4, 0x7f0200c7, 0x7f0200e2, 
         0x7f0200eb
       };
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#background}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:background
-     */
-    public static final int ActionBar_background=0;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#backgroundSplit}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:backgroundSplit
-     */
-    public static final int ActionBar_backgroundSplit=1;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#backgroundStacked}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:backgroundStacked
-     */
-    public static final int ActionBar_backgroundStacked=2;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetEnd}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:contentInsetEnd
-     */
-    public static final int ActionBar_contentInsetEnd=3;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetEndWithActions}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:contentInsetEndWithActions
-     */
-    public static final int ActionBar_contentInsetEndWithActions=4;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetLeft}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:contentInsetLeft
-     */
-    public static final int ActionBar_contentInsetLeft=5;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetRight}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:contentInsetRight
-     */
-    public static final int ActionBar_contentInsetRight=6;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetStart}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:contentInsetStart
-     */
-    public static final int ActionBar_contentInsetStart=7;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetStartWithNavigation}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:contentInsetStartWithNavigation
-     */
-    public static final int ActionBar_contentInsetStartWithNavigation=8;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#customNavigationLayout}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:customNavigationLayout
-     */
-    public static final int ActionBar_customNavigationLayout=9;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#displayOptions}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>disableHome</td><td>20</td><td></td></tr>
-     * <tr><td>homeAsUp</td><td>4</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * <tr><td>showCustom</td><td>10</td><td></td></tr>
-     * <tr><td>showHome</td><td>2</td><td></td></tr>
-     * <tr><td>showTitle</td><td>8</td><td></td></tr>
-     * <tr><td>useLogo</td><td>1</td><td></td></tr>
-     * </table>
-     *
-     * @attr name net.dawateislami.keyboard1:displayOptions
-     */
-    public static final int ActionBar_displayOptions=10;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#divider}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:divider
-     */
-    public static final int ActionBar_divider=11;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#elevation}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:elevation
-     */
-    public static final int ActionBar_elevation=12;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#height}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:height
-     */
-    public static final int ActionBar_height=13;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#hideOnContentScroll}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name net.dawateislami.keyboard1:hideOnContentScroll
-     */
-    public static final int ActionBar_hideOnContentScroll=14;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#homeAsUpIndicator}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:homeAsUpIndicator
-     */
-    public static final int ActionBar_homeAsUpIndicator=15;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#homeLayout}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:homeLayout
-     */
-    public static final int ActionBar_homeLayout=16;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#icon}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:icon
-     */
-    public static final int ActionBar_icon=17;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#indeterminateProgressStyle}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:indeterminateProgressStyle
-     */
-    public static final int ActionBar_indeterminateProgressStyle=18;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#itemPadding}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:itemPadding
-     */
-    public static final int ActionBar_itemPadding=19;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#logo}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:logo
-     */
-    public static final int ActionBar_logo=20;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#navigationMode}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>listMode</td><td>1</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * <tr><td>tabMode</td><td>2</td><td></td></tr>
-     * </table>
-     *
-     * @attr name net.dawateislami.keyboard1:navigationMode
-     */
-    public static final int ActionBar_navigationMode=21;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#popupTheme}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:popupTheme
-     */
-    public static final int ActionBar_popupTheme=22;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#progressBarPadding}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:progressBarPadding
-     */
-    public static final int ActionBar_progressBarPadding=23;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#progressBarStyle}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:progressBarStyle
-     */
-    public static final int ActionBar_progressBarStyle=24;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subtitle}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:subtitle
-     */
-    public static final int ActionBar_subtitle=25;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subtitleTextStyle}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:subtitleTextStyle
-     */
-    public static final int ActionBar_subtitleTextStyle=26;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#title}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:title
-     */
-    public static final int ActionBar_title=27;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleTextStyle}
-     * attribute's value can be found in the {@link #ActionBar} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:titleTextStyle
-     */
-    public static final int ActionBar_titleTextStyle=28;
     /**
      * Attributes that can be used with a ActionBarLayout.
      * <p>Includes the following attributes:</p>
@@ -3337,6 +2963,380 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#background}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:background
+     */
+    public static final int ActionBar_background=0;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#backgroundSplit}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:backgroundSplit
+     */
+    public static final int ActionBar_backgroundSplit=1;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#backgroundStacked}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:backgroundStacked
+     */
+    public static final int ActionBar_backgroundStacked=2;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetEnd}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:contentInsetEnd
+     */
+    public static final int ActionBar_contentInsetEnd=3;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetEndWithActions}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:contentInsetEndWithActions
+     */
+    public static final int ActionBar_contentInsetEndWithActions=4;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetLeft}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:contentInsetLeft
+     */
+    public static final int ActionBar_contentInsetLeft=5;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetRight}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:contentInsetRight
+     */
+    public static final int ActionBar_contentInsetRight=6;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetStart}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:contentInsetStart
+     */
+    public static final int ActionBar_contentInsetStart=7;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetStartWithNavigation}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:contentInsetStartWithNavigation
+     */
+    public static final int ActionBar_contentInsetStartWithNavigation=8;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#customNavigationLayout}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:customNavigationLayout
+     */
+    public static final int ActionBar_customNavigationLayout=9;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#displayOptions}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>disableHome</td><td>20</td><td></td></tr>
+     * <tr><td>homeAsUp</td><td>4</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * <tr><td>showCustom</td><td>10</td><td></td></tr>
+     * <tr><td>showHome</td><td>2</td><td></td></tr>
+     * <tr><td>showTitle</td><td>8</td><td></td></tr>
+     * <tr><td>useLogo</td><td>1</td><td></td></tr>
+     * </table>
+     *
+     * @attr name net.dawateislami.keyboard:displayOptions
+     */
+    public static final int ActionBar_displayOptions=10;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#divider}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:divider
+     */
+    public static final int ActionBar_divider=11;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#elevation}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:elevation
+     */
+    public static final int ActionBar_elevation=12;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#height}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:height
+     */
+    public static final int ActionBar_height=13;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#hideOnContentScroll}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name net.dawateislami.keyboard:hideOnContentScroll
+     */
+    public static final int ActionBar_hideOnContentScroll=14;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#homeAsUpIndicator}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:homeAsUpIndicator
+     */
+    public static final int ActionBar_homeAsUpIndicator=15;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#homeLayout}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:homeLayout
+     */
+    public static final int ActionBar_homeLayout=16;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#icon}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:icon
+     */
+    public static final int ActionBar_icon=17;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#indeterminateProgressStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:indeterminateProgressStyle
+     */
+    public static final int ActionBar_indeterminateProgressStyle=18;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#itemPadding}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:itemPadding
+     */
+    public static final int ActionBar_itemPadding=19;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#logo}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:logo
+     */
+    public static final int ActionBar_logo=20;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#navigationMode}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>listMode</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * <tr><td>tabMode</td><td>2</td><td></td></tr>
+     * </table>
+     *
+     * @attr name net.dawateislami.keyboard:navigationMode
+     */
+    public static final int ActionBar_navigationMode=21;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#popupTheme}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:popupTheme
+     */
+    public static final int ActionBar_popupTheme=22;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#progressBarPadding}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:progressBarPadding
+     */
+    public static final int ActionBar_progressBarPadding=23;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#progressBarStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:progressBarStyle
+     */
+    public static final int ActionBar_progressBarStyle=24;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subtitle}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:subtitle
+     */
+    public static final int ActionBar_subtitle=25;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subtitleTextStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:subtitleTextStyle
+     */
+    public static final int ActionBar_subtitleTextStyle=26;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#title}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:title
+     */
+    public static final int ActionBar_title=27;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleTextStyle}
+     * attribute's value can be found in the {@link #ActionBar} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:titleTextStyle
+     */
+    public static final int ActionBar_titleTextStyle=28;
+    /**
      * Attributes that can be used with a ActionMenuItemView.
      * <p>Includes the following attributes:</p>
      * <table>
@@ -3372,12 +3372,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background net.dawateislami.keyboard1:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit net.dawateislami.keyboard1:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout net.dawateislami.keyboard1:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height net.dawateislami.keyboard1:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle net.dawateislami.keyboard1:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle net.dawateislami.keyboard1:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background net.dawateislami.keyboard:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit net.dawateislami.keyboard:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout net.dawateislami.keyboard:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height net.dawateislami.keyboard:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle net.dawateislami.keyboard:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle net.dawateislami.keyboard:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -3391,7 +3391,7 @@ public final class R {
         0x7f0200c7, 0x7f0200eb
       };
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#background}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3399,11 +3399,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:background
+     * @attr name net.dawateislami.keyboard:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3414,11 +3414,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:backgroundSplit
+     * @attr name net.dawateislami.keyboard:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3426,11 +3426,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:closeItemLayout
+     * @attr name net.dawateislami.keyboard:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#height}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3439,11 +3439,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:height
+     * @attr name net.dawateislami.keyboard:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3451,11 +3451,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:subtitleTextStyle
+     * @attr name net.dawateislami.keyboard:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3463,7 +3463,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:titleTextStyle
+     * @attr name net.dawateislami.keyboard:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -3473,8 +3473,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable net.dawateislami.keyboard1:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount net.dawateislami.keyboard1:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable net.dawateislami.keyboard:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount net.dawateislami.keyboard:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -3483,7 +3483,7 @@ public final class R {
         0x7f02006e, 0x7f020085
       };
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3491,17 +3491,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:expandActivityOverflowButtonDrawable
+     * @attr name net.dawateislami.keyboard:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:initialActivityCount
+     * @attr name net.dawateislami.keyboard:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -3512,12 +3512,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout net.dawateislami.keyboard1:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout net.dawateislami.keyboard1:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout net.dawateislami.keyboard1:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout net.dawateislami.keyboard1:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle net.dawateislami.keyboard1:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout net.dawateislami.keyboard1:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout net.dawateislami.keyboard:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout net.dawateislami.keyboard:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout net.dawateislami.keyboard:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout net.dawateislami.keyboard:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle net.dawateislami.keyboard:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout net.dawateislami.keyboard:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -3544,7 +3544,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3552,11 +3552,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonPanelSideLayout
+     * @attr name net.dawateislami.keyboard:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3564,11 +3564,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:listItemLayout
+     * @attr name net.dawateislami.keyboard:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3576,11 +3576,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:listLayout
+     * @attr name net.dawateislami.keyboard:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3588,21 +3588,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:multiChoiceItemLayout
+     * @attr name net.dawateislami.keyboard:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:showTitle
+     * @attr name net.dawateislami.keyboard:showTitle
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3610,7 +3610,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:singleChoiceItemLayout
+     * @attr name net.dawateislami.keyboard:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=6;
     /**
@@ -3621,9 +3621,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat net.dawateislami.keyboard1:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint net.dawateislami.keyboard1:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode net.dawateislami.keyboard1:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat net.dawateislami.keyboard:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint net.dawateislami.keyboard:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode net.dawateislami.keyboard:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -3649,7 +3649,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3657,22 +3657,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:srcCompat
+     * @attr name net.dawateislami.keyboard:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:tint
+     * @attr name net.dawateislami.keyboard:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3689,7 +3689,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:tintMode
+     * @attr name net.dawateislami.keyboard:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -3700,9 +3700,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark net.dawateislami.keyboard1:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint net.dawateislami.keyboard1:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode net.dawateislami.keyboard1:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark net.dawateislami.keyboard:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint net.dawateislami.keyboard:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode net.dawateislami.keyboard:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -3725,7 +3725,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3733,22 +3733,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:tickMark
+     * @attr name net.dawateislami.keyboard:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:tickMarkTint
+     * @attr name net.dawateislami.keyboard:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3765,7 +3765,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:tickMarkTintMode
+     * @attr name net.dawateislami.keyboard:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -3796,33 +3796,6 @@ public final class R {
         0x01010170, 0x01010392, 0x01010393
       };
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
-     * attribute's value can be found in the {@link #AppCompatTextHelper} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:textAppearance
-     */
-    public static final int AppCompatTextHelper_android_textAppearance=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#drawableTop}
-     * attribute's value can be found in the {@link #AppCompatTextHelper} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     *
-     * @attr name android:drawableTop
-     */
-    public static final int AppCompatTextHelper_android_drawableTop=1;
-    /**
      * <p>This symbol is the offset where the {@link android.R.attr#drawableBottom}
      * attribute's value can be found in the {@link #AppCompatTextHelper} array.
      *
@@ -3837,6 +3810,21 @@ public final class R {
      * @attr name android:drawableBottom
      */
     public static final int AppCompatTextHelper_android_drawableBottom=2;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#drawableEnd}
+     * attribute's value can be found in the {@link #AppCompatTextHelper} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     *
+     * @attr name android:drawableEnd
+     */
+    public static final int AppCompatTextHelper_android_drawableEnd=6;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#drawableLeft}
      * attribute's value can be found in the {@link #AppCompatTextHelper} array.
@@ -3883,7 +3871,7 @@ public final class R {
      */
     public static final int AppCompatTextHelper_android_drawableStart=5;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#drawableEnd}
+     * <p>This symbol is the offset where the {@link android.R.attr#drawableTop}
      * attribute's value can be found in the {@link #AppCompatTextHelper} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3894,9 +3882,21 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name android:drawableEnd
+     * @attr name android:drawableTop
      */
-    public static final int AppCompatTextHelper_android_drawableEnd=6;
+    public static final int AppCompatTextHelper_android_drawableTop=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
+     * attribute's value can be found in the {@link #AppCompatTextHelper} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:textAppearance
+     */
+    public static final int AppCompatTextHelper_android_textAppearance=0;
     /**
      * Attributes that can be used with a AppCompatTextView.
      * <p>Includes the following attributes:</p>
@@ -3905,13 +3905,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize net.dawateislami.keyboard1:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize net.dawateislami.keyboard1:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes net.dawateislami.keyboard1:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity net.dawateislami.keyboard1:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType net.dawateislami.keyboard1:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily net.dawateislami.keyboard1:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps net.dawateislami.keyboard1:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize net.dawateislami.keyboard:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize net.dawateislami.keyboard:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes net.dawateislami.keyboard:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity net.dawateislami.keyboard:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType net.dawateislami.keyboard:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily net.dawateislami.keyboard:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps net.dawateislami.keyboard:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -3939,7 +3939,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3948,11 +3948,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:autoSizeMaxTextSize
+     * @attr name net.dawateislami.keyboard:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3961,11 +3961,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:autoSizeMinTextSize
+     * @attr name net.dawateislami.keyboard:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3973,11 +3973,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:autoSizePresetSizes
+     * @attr name net.dawateislami.keyboard:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3986,11 +3986,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:autoSizeStepGranularity
+     * @attr name net.dawateislami.keyboard:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4003,21 +4003,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:autoSizeTextType
+     * @attr name net.dawateislami.keyboard:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:fontFamily
+     * @attr name net.dawateislami.keyboard:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4027,7 +4027,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAllCaps
+     * @attr name net.dawateislami.keyboard:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -4039,123 +4039,123 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider net.dawateislami.keyboard1:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground net.dawateislami.keyboard1:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme net.dawateislami.keyboard1:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize net.dawateislami.keyboard1:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle net.dawateislami.keyboard1:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle net.dawateislami.keyboard1:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle net.dawateislami.keyboard1:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle net.dawateislami.keyboard1:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle net.dawateislami.keyboard1:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme net.dawateislami.keyboard1:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme net.dawateislami.keyboard1:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle net.dawateislami.keyboard1:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle net.dawateislami.keyboard1:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance net.dawateislami.keyboard1:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor net.dawateislami.keyboard1:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground net.dawateislami.keyboard1:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle net.dawateislami.keyboard1:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable net.dawateislami.keyboard1:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable net.dawateislami.keyboard1:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable net.dawateislami.keyboard1:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable net.dawateislami.keyboard1:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable net.dawateislami.keyboard1:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle net.dawateislami.keyboard1:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable net.dawateislami.keyboard1:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable net.dawateislami.keyboard1:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground net.dawateislami.keyboard1:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle net.dawateislami.keyboard1:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable net.dawateislami.keyboard1:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle net.dawateislami.keyboard1:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle net.dawateislami.keyboard1:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle net.dawateislami.keyboard1:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle net.dawateislami.keyboard1:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons net.dawateislami.keyboard1:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle net.dawateislami.keyboard1:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme net.dawateislami.keyboard1:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle net.dawateislami.keyboard1:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle net.dawateislami.keyboard1:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle net.dawateislami.keyboard1:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle net.dawateislami.keyboard1:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle net.dawateislami.keyboard1:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle net.dawateislami.keyboard1:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle net.dawateislami.keyboard1:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle net.dawateislami.keyboard1:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall net.dawateislami.keyboard1:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle net.dawateislami.keyboard1:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle net.dawateislami.keyboard1:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent net.dawateislami.keyboard1:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating net.dawateislami.keyboard1:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal net.dawateislami.keyboard1:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated net.dawateislami.keyboard1:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight net.dawateislami.keyboard1:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal net.dawateislami.keyboard1:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError net.dawateislami.keyboard1:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary net.dawateislami.keyboard1:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark net.dawateislami.keyboard1:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal net.dawateislami.keyboard1:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground net.dawateislami.keyboard1:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding net.dawateislami.keyboard1:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme net.dawateislami.keyboard1:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal net.dawateislami.keyboard1:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical net.dawateislami.keyboard1:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle net.dawateislami.keyboard1:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight net.dawateislami.keyboard1:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground net.dawateislami.keyboard1:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor net.dawateislami.keyboard1:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle net.dawateislami.keyboard1:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator net.dawateislami.keyboard1:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle net.dawateislami.keyboard1:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator net.dawateislami.keyboard1:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog net.dawateislami.keyboard1:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle net.dawateislami.keyboard1:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle net.dawateislami.keyboard1:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight net.dawateislami.keyboard1:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge net.dawateislami.keyboard1:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall net.dawateislami.keyboard1:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft net.dawateislami.keyboard1:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight net.dawateislami.keyboard1:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground net.dawateislami.keyboard1:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme net.dawateislami.keyboard1:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth net.dawateislami.keyboard1:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle net.dawateislami.keyboard1:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle net.dawateislami.keyboard1:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle net.dawateislami.keyboard1:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle net.dawateislami.keyboard1:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator net.dawateislami.keyboard1:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall net.dawateislami.keyboard1:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle net.dawateislami.keyboard1:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle net.dawateislami.keyboard1:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground net.dawateislami.keyboard1:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless net.dawateislami.keyboard1:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle net.dawateislami.keyboard1:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle net.dawateislami.keyboard1:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle net.dawateislami.keyboard1:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu net.dawateislami.keyboard1:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem net.dawateislami.keyboard1:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary net.dawateislami.keyboard1:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall net.dawateislami.keyboard1:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader net.dawateislami.keyboard1:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle net.dawateislami.keyboard1:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle net.dawateislami.keyboard1:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu net.dawateislami.keyboard1:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem net.dawateislami.keyboard1:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl net.dawateislami.keyboard1:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle net.dawateislami.keyboard1:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle net.dawateislami.keyboard1:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor net.dawateislami.keyboard1:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground net.dawateislami.keyboard1:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar net.dawateislami.keyboard1:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay net.dawateislami.keyboard1:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay net.dawateislami.keyboard1:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor net.dawateislami.keyboard1:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor net.dawateislami.keyboard1:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor net.dawateislami.keyboard1:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor net.dawateislami.keyboard1:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor net.dawateislami.keyboard1:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor net.dawateislami.keyboard1:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle net.dawateislami.keyboard1:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider net.dawateislami.keyboard:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground net.dawateislami.keyboard:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme net.dawateislami.keyboard:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize net.dawateislami.keyboard:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle net.dawateislami.keyboard:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle net.dawateislami.keyboard:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle net.dawateislami.keyboard:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle net.dawateislami.keyboard:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle net.dawateislami.keyboard:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme net.dawateislami.keyboard:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme net.dawateislami.keyboard:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle net.dawateislami.keyboard:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle net.dawateislami.keyboard:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance net.dawateislami.keyboard:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor net.dawateislami.keyboard:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground net.dawateislami.keyboard:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle net.dawateislami.keyboard:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable net.dawateislami.keyboard:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable net.dawateislami.keyboard:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable net.dawateislami.keyboard:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable net.dawateislami.keyboard:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable net.dawateislami.keyboard:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle net.dawateislami.keyboard:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable net.dawateislami.keyboard:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable net.dawateislami.keyboard:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground net.dawateislami.keyboard:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle net.dawateislami.keyboard:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable net.dawateislami.keyboard:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle net.dawateislami.keyboard:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle net.dawateislami.keyboard:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle net.dawateislami.keyboard:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle net.dawateislami.keyboard:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons net.dawateislami.keyboard:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle net.dawateislami.keyboard:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme net.dawateislami.keyboard:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle net.dawateislami.keyboard:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle net.dawateislami.keyboard:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle net.dawateislami.keyboard:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle net.dawateislami.keyboard:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle net.dawateislami.keyboard:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle net.dawateislami.keyboard:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle net.dawateislami.keyboard:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle net.dawateislami.keyboard:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall net.dawateislami.keyboard:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle net.dawateislami.keyboard:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle net.dawateislami.keyboard:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent net.dawateislami.keyboard:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating net.dawateislami.keyboard:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal net.dawateislami.keyboard:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated net.dawateislami.keyboard:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight net.dawateislami.keyboard:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal net.dawateislami.keyboard:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError net.dawateislami.keyboard:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary net.dawateislami.keyboard:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark net.dawateislami.keyboard:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal net.dawateislami.keyboard:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground net.dawateislami.keyboard:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding net.dawateislami.keyboard:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme net.dawateislami.keyboard:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal net.dawateislami.keyboard:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical net.dawateislami.keyboard:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle net.dawateislami.keyboard:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight net.dawateislami.keyboard:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground net.dawateislami.keyboard:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor net.dawateislami.keyboard:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle net.dawateislami.keyboard:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator net.dawateislami.keyboard:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle net.dawateislami.keyboard:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator net.dawateislami.keyboard:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog net.dawateislami.keyboard:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle net.dawateislami.keyboard:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle net.dawateislami.keyboard:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight net.dawateislami.keyboard:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge net.dawateislami.keyboard:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall net.dawateislami.keyboard:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft net.dawateislami.keyboard:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight net.dawateislami.keyboard:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground net.dawateislami.keyboard:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme net.dawateislami.keyboard:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth net.dawateislami.keyboard:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle net.dawateislami.keyboard:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle net.dawateislami.keyboard:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle net.dawateislami.keyboard:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle net.dawateislami.keyboard:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator net.dawateislami.keyboard:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall net.dawateislami.keyboard:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle net.dawateislami.keyboard:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle net.dawateislami.keyboard:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground net.dawateislami.keyboard:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless net.dawateislami.keyboard:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle net.dawateislami.keyboard:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle net.dawateislami.keyboard:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle net.dawateislami.keyboard:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu net.dawateislami.keyboard:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem net.dawateislami.keyboard:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary net.dawateislami.keyboard:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall net.dawateislami.keyboard:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader net.dawateislami.keyboard:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle net.dawateislami.keyboard:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle net.dawateislami.keyboard:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu net.dawateislami.keyboard:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem net.dawateislami.keyboard:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl net.dawateislami.keyboard:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle net.dawateislami.keyboard:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle net.dawateislami.keyboard:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor net.dawateislami.keyboard:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground net.dawateislami.keyboard:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar net.dawateislami.keyboard:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay net.dawateislami.keyboard:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay net.dawateislami.keyboard:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor net.dawateislami.keyboard:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor net.dawateislami.keyboard:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor net.dawateislami.keyboard:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor net.dawateislami.keyboard:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor net.dawateislami.keyboard:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor net.dawateislami.keyboard:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle net.dawateislami.keyboard:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -4310,17 +4310,7 @@ public final class R {
         0x7f0200fc, 0x7f0200fd, 0x7f0200fe
       };
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
-     * attribute's value can be found in the {@link #AppCompatTheme} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name android:windowIsFloating
-     */
-    public static final int AppCompatTheme_android_windowIsFloating=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4328,23 +4318,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name android:windowAnimationStyle
-     */
-    public static final int AppCompatTheme_android_windowAnimationStyle=1;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarDivider}
-     * attribute's value can be found in the {@link #AppCompatTheme} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:actionBarDivider
+     * @attr name net.dawateislami.keyboard:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4352,11 +4330,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarItemBackground
+     * @attr name net.dawateislami.keyboard:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4364,11 +4342,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarPopupTheme
+     * @attr name net.dawateislami.keyboard:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4385,11 +4363,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:actionBarSize
+     * @attr name net.dawateislami.keyboard:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4397,11 +4375,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarSplitStyle
+     * @attr name net.dawateislami.keyboard:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4409,11 +4387,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarStyle
+     * @attr name net.dawateislami.keyboard:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4421,11 +4399,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarTabBarStyle
+     * @attr name net.dawateislami.keyboard:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4433,11 +4411,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarTabStyle
+     * @attr name net.dawateislami.keyboard:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4445,11 +4423,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarTabTextStyle
+     * @attr name net.dawateislami.keyboard:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4457,11 +4435,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarTheme
+     * @attr name net.dawateislami.keyboard:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4469,11 +4447,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionBarWidgetTheme
+     * @attr name net.dawateislami.keyboard:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4481,11 +4459,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionButtonStyle
+     * @attr name net.dawateislami.keyboard:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4493,11 +4471,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionDropDownStyle
+     * @attr name net.dawateislami.keyboard:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4505,11 +4483,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionMenuTextAppearance
+     * @attr name net.dawateislami.keyboard:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4520,11 +4498,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionMenuTextColor
+     * @attr name net.dawateislami.keyboard:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4532,11 +4510,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeBackground
+     * @attr name net.dawateislami.keyboard:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4544,11 +4522,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeCloseButtonStyle
+     * @attr name net.dawateislami.keyboard:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4556,11 +4534,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeCloseDrawable
+     * @attr name net.dawateislami.keyboard:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4568,11 +4546,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeCopyDrawable
+     * @attr name net.dawateislami.keyboard:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4580,11 +4558,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeCutDrawable
+     * @attr name net.dawateislami.keyboard:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4592,11 +4570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeFindDrawable
+     * @attr name net.dawateislami.keyboard:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4604,11 +4582,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModePasteDrawable
+     * @attr name net.dawateislami.keyboard:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4616,11 +4594,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModePopupWindowStyle
+     * @attr name net.dawateislami.keyboard:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4628,11 +4606,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeSelectAllDrawable
+     * @attr name net.dawateislami.keyboard:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4640,11 +4618,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeShareDrawable
+     * @attr name net.dawateislami.keyboard:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4652,11 +4630,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeSplitBackground
+     * @attr name net.dawateislami.keyboard:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4664,11 +4642,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeStyle
+     * @attr name net.dawateislami.keyboard:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4676,11 +4654,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionModeWebSearchDrawable
+     * @attr name net.dawateislami.keyboard:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4688,11 +4666,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionOverflowButtonStyle
+     * @attr name net.dawateislami.keyboard:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4700,11 +4678,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:actionOverflowMenuStyle
+     * @attr name net.dawateislami.keyboard:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4712,11 +4690,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:activityChooserViewStyle
+     * @attr name net.dawateislami.keyboard:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4724,21 +4702,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:alertDialogButtonGroupStyle
+     * @attr name net.dawateislami.keyboard:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:alertDialogCenterButtons
+     * @attr name net.dawateislami.keyboard:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4746,11 +4724,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:alertDialogStyle
+     * @attr name net.dawateislami.keyboard:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4758,11 +4736,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:alertDialogTheme
+     * @attr name net.dawateislami.keyboard:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4770,11 +4748,33 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:autoCompleteTextViewStyle
+     * @attr name android:windowAnimationStyle
+     */
+    public static final int AppCompatTheme_android_windowAnimationStyle=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
+     * attribute's value can be found in the {@link #AppCompatTheme} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name android:windowIsFloating
+     */
+    public static final int AppCompatTheme_android_windowIsFloating=0;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#autoCompleteTextViewStyle}
+     * attribute's value can be found in the {@link #AppCompatTheme} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4782,11 +4782,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:borderlessButtonStyle
+     * @attr name net.dawateislami.keyboard:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4794,11 +4794,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonBarButtonStyle
+     * @attr name net.dawateislami.keyboard:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4806,11 +4806,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonBarNegativeButtonStyle
+     * @attr name net.dawateislami.keyboard:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4818,11 +4818,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonBarNeutralButtonStyle
+     * @attr name net.dawateislami.keyboard:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4830,11 +4830,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonBarPositiveButtonStyle
+     * @attr name net.dawateislami.keyboard:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4842,11 +4842,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonBarStyle
+     * @attr name net.dawateislami.keyboard:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4854,11 +4854,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonStyle
+     * @attr name net.dawateislami.keyboard:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4866,11 +4866,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonStyleSmall
+     * @attr name net.dawateislami.keyboard:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4878,11 +4878,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:checkboxStyle
+     * @attr name net.dawateislami.keyboard:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4890,77 +4890,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:checkedTextViewStyle
+     * @attr name net.dawateislami.keyboard:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorAccent
+     * @attr name net.dawateislami.keyboard:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorBackgroundFloating
+     * @attr name net.dawateislami.keyboard:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorButtonNormal
+     * @attr name net.dawateislami.keyboard:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorControlActivated
+     * @attr name net.dawateislami.keyboard:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorControlHighlight
+     * @attr name net.dawateislami.keyboard:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorControlNormal
+     * @attr name net.dawateislami.keyboard:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4971,44 +4971,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorError
+     * @attr name net.dawateislami.keyboard:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorPrimary
+     * @attr name net.dawateislami.keyboard:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorPrimaryDark
+     * @attr name net.dawateislami.keyboard:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:colorSwitchThumbNormal
+     * @attr name net.dawateislami.keyboard:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5016,11 +5016,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:controlBackground
+     * @attr name net.dawateislami.keyboard:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5029,11 +5029,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:dialogPreferredPadding
+     * @attr name net.dawateislami.keyboard:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5041,11 +5041,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:dialogTheme
+     * @attr name net.dawateislami.keyboard:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5053,11 +5053,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:dividerHorizontal
+     * @attr name net.dawateislami.keyboard:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5065,11 +5065,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:dividerVertical
+     * @attr name net.dawateislami.keyboard:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5077,11 +5077,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:dropDownListViewStyle
+     * @attr name net.dawateislami.keyboard:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5090,11 +5090,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:dropdownListPreferredItemHeight
+     * @attr name net.dawateislami.keyboard:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5102,11 +5102,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:editTextBackground
+     * @attr name net.dawateislami.keyboard:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5117,11 +5117,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:editTextColor
+     * @attr name net.dawateislami.keyboard:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5129,11 +5129,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:editTextStyle
+     * @attr name net.dawateislami.keyboard:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5141,11 +5141,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:homeAsUpIndicator
+     * @attr name net.dawateislami.keyboard:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5153,11 +5153,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:imageButtonStyle
+     * @attr name net.dawateislami.keyboard:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5165,11 +5165,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:listChoiceBackgroundIndicator
+     * @attr name net.dawateislami.keyboard:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5177,11 +5177,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:listDividerAlertDialog
+     * @attr name net.dawateislami.keyboard:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5189,11 +5189,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:listMenuViewStyle
+     * @attr name net.dawateislami.keyboard:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5201,11 +5201,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:listPopupWindowStyle
+     * @attr name net.dawateislami.keyboard:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5214,11 +5214,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:listPreferredItemHeight
+     * @attr name net.dawateislami.keyboard:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5227,11 +5227,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:listPreferredItemHeightLarge
+     * @attr name net.dawateislami.keyboard:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5240,11 +5240,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:listPreferredItemHeightSmall
+     * @attr name net.dawateislami.keyboard:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5253,11 +5253,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:listPreferredItemPaddingLeft
+     * @attr name net.dawateislami.keyboard:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5266,11 +5266,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:listPreferredItemPaddingRight
+     * @attr name net.dawateislami.keyboard:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5278,11 +5278,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:panelBackground
+     * @attr name net.dawateislami.keyboard:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5290,11 +5290,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:panelMenuListTheme
+     * @attr name net.dawateislami.keyboard:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5303,11 +5303,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:panelMenuListWidth
+     * @attr name net.dawateislami.keyboard:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5315,11 +5315,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:popupMenuStyle
+     * @attr name net.dawateislami.keyboard:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5327,11 +5327,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:popupWindowStyle
+     * @attr name net.dawateislami.keyboard:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5339,11 +5339,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:radioButtonStyle
+     * @attr name net.dawateislami.keyboard:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5351,11 +5351,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:ratingBarStyle
+     * @attr name net.dawateislami.keyboard:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5363,11 +5363,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:ratingBarStyleIndicator
+     * @attr name net.dawateislami.keyboard:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5375,11 +5375,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:ratingBarStyleSmall
+     * @attr name net.dawateislami.keyboard:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5387,11 +5387,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:searchViewStyle
+     * @attr name net.dawateislami.keyboard:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5399,11 +5399,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:seekBarStyle
+     * @attr name net.dawateislami.keyboard:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5411,11 +5411,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:selectableItemBackground
+     * @attr name net.dawateislami.keyboard:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5423,11 +5423,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:selectableItemBackgroundBorderless
+     * @attr name net.dawateislami.keyboard:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5435,11 +5435,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:spinnerDropDownItemStyle
+     * @attr name net.dawateislami.keyboard:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5447,11 +5447,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:spinnerStyle
+     * @attr name net.dawateislami.keyboard:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5459,11 +5459,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:switchStyle
+     * @attr name net.dawateislami.keyboard:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5471,11 +5471,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceLargePopupMenu
+     * @attr name net.dawateislami.keyboard:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5483,11 +5483,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceListItem
+     * @attr name net.dawateislami.keyboard:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5495,11 +5495,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceListItemSecondary
+     * @attr name net.dawateislami.keyboard:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5507,11 +5507,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceListItemSmall
+     * @attr name net.dawateislami.keyboard:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5519,11 +5519,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearancePopupMenuHeader
+     * @attr name net.dawateislami.keyboard:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5531,11 +5531,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceSearchResultSubtitle
+     * @attr name net.dawateislami.keyboard:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5543,11 +5543,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceSearchResultTitle
+     * @attr name net.dawateislami.keyboard:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5555,11 +5555,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAppearanceSmallPopupMenu
+     * @attr name net.dawateislami.keyboard:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5570,11 +5570,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textColorAlertDialogListItem
+     * @attr name net.dawateislami.keyboard:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5585,11 +5585,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:textColorSearchUrl
+     * @attr name net.dawateislami.keyboard:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5597,11 +5597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:toolbarNavigationButtonStyle
+     * @attr name net.dawateislami.keyboard:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5609,11 +5609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:toolbarStyle
+     * @attr name net.dawateislami.keyboard:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5624,11 +5624,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:tooltipForegroundColor
+     * @attr name net.dawateislami.keyboard:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5636,41 +5636,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:tooltipFrameBackground
+     * @attr name net.dawateislami.keyboard:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:windowActionBar
+     * @attr name net.dawateislami.keyboard:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=109;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:windowActionBarOverlay
+     * @attr name net.dawateislami.keyboard:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=110;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:windowActionModeOverlay
+     * @attr name net.dawateislami.keyboard:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5683,11 +5683,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name net.dawateislami.keyboard1:windowFixedHeightMajor
+     * @attr name net.dawateislami.keyboard:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5700,11 +5700,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name net.dawateislami.keyboard1:windowFixedHeightMinor
+     * @attr name net.dawateislami.keyboard:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5717,11 +5717,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name net.dawateislami.keyboard1:windowFixedWidthMajor
+     * @attr name net.dawateislami.keyboard:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5734,11 +5734,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name net.dawateislami.keyboard1:windowFixedWidthMinor
+     * @attr name net.dawateislami.keyboard:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5751,11 +5751,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name net.dawateislami.keyboard1:windowMinWidthMajor
+     * @attr name net.dawateislami.keyboard:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5768,17 +5768,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name net.dawateislami.keyboard1:windowMinWidthMinor
+     * @attr name net.dawateislami.keyboard:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:windowNoTitle
+     * @attr name net.dawateislami.keyboard:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=118;
     /**
@@ -5788,7 +5788,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking net.dawateislami.keyboard1:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking net.dawateislami.keyboard:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -5796,13 +5796,13 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:allowStacking
+     * @attr name net.dawateislami.keyboard:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -5814,7 +5814,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha net.dawateislami.keyboard1:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha net.dawateislami.keyboard:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -5823,6 +5823,24 @@ public final class R {
     public static final int[] ColorStateListItem={
         0x010101a5, 0x0101031f, 0x7f020027
       };
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#alpha}
+     * attribute's value can be found in the {@link #ColorStateListItem} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name net.dawateislami.keyboard:alpha
+     */
+    public static final int ColorStateListItem_alpha=2;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#alpha}
+     * attribute's value can be found in the {@link #ColorStateListItem} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:alpha
+     */
+    public static final int ColorStateListItem_android_alpha=1;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#color}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
@@ -5835,24 +5853,6 @@ public final class R {
      */
     public static final int ColorStateListItem_android_color=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#alpha}
-     * attribute's value can be found in the {@link #ColorStateListItem} array.
-     *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
-     *
-     * @attr name android:alpha
-     */
-    public static final int ColorStateListItem_android_alpha=1;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#alpha}
-     * attribute's value can be found in the {@link #ColorStateListItem} array.
-     *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
-     *
-     * @attr name net.dawateislami.keyboard1:alpha
-     */
-    public static final int ColorStateListItem_alpha=2;
-    /**
      * Attributes that can be used with a CompoundButton.
      * <p>Includes the following attributes:</p>
      * <table>
@@ -5860,8 +5860,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint net.dawateislami.keyboard1:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode net.dawateislami.keyboard1:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint net.dawateislami.keyboard:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode net.dawateislami.keyboard:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -5883,18 +5883,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:buttonTint
+     * @attr name net.dawateislami.keyboard:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5911,7 +5911,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:buttonTintMode
+     * @attr name net.dawateislami.keyboard:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -5921,14 +5921,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength net.dawateislami.keyboard1:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength net.dawateislami.keyboard1:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength net.dawateislami.keyboard1:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color net.dawateislami.keyboard1:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize net.dawateislami.keyboard1:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars net.dawateislami.keyboard1:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars net.dawateislami.keyboard1:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness net.dawateislami.keyboard1:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength net.dawateislami.keyboard:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength net.dawateislami.keyboard:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength net.dawateislami.keyboard:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color net.dawateislami.keyboard:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize net.dawateislami.keyboard:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars net.dawateislami.keyboard:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars net.dawateislami.keyboard:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness net.dawateislami.keyboard:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -5944,7 +5944,7 @@ public final class R {
         0x7f020066, 0x7f020079, 0x7f0200bc, 0x7f0200d9
       };
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5953,11 +5953,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:arrowHeadLength
+     * @attr name net.dawateislami.keyboard:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5966,11 +5966,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:arrowShaftLength
+     * @attr name net.dawateislami.keyboard:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5979,22 +5979,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:barLength
+     * @attr name net.dawateislami.keyboard:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#color}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:color
+     * @attr name net.dawateislami.keyboard:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6003,11 +6003,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:drawableSize
+     * @attr name net.dawateislami.keyboard:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6016,21 +6016,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:gapBetweenBars
+     * @attr name net.dawateislami.keyboard:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:spinBars
+     * @attr name net.dawateislami.keyboard:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6039,7 +6039,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:thickness
+     * @attr name net.dawateislami.keyboard:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -6049,12 +6049,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority net.dawateislami.keyboard1:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts net.dawateislami.keyboard1:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy net.dawateislami.keyboard1:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout net.dawateislami.keyboard1:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage net.dawateislami.keyboard1:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery net.dawateislami.keyboard1:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority net.dawateislami.keyboard:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts net.dawateislami.keyboard:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy net.dawateislami.keyboard:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout net.dawateislami.keyboard:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage net.dawateislami.keyboard:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery net.dawateislami.keyboard:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -6068,82 +6068,6 @@ public final class R {
         0x7f020075, 0x7f020076
       };
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontProviderAuthority}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:fontProviderAuthority
-     */
-    public static final int FontFamily_fontProviderAuthority=0;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontProviderCerts}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:fontProviderCerts
-     */
-    public static final int FontFamily_fontProviderCerts=1;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontProviderFetchStrategy}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>async</td><td>1</td><td></td></tr>
-     * <tr><td>blocking</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name net.dawateislami.keyboard1:fontProviderFetchStrategy
-     */
-    public static final int FontFamily_fontProviderFetchStrategy=2;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontProviderFetchTimeout}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
-     * </table>
-     *
-     * @attr name net.dawateislami.keyboard1:fontProviderFetchTimeout
-     */
-    public static final int FontFamily_fontProviderFetchTimeout=3;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontProviderPackage}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:fontProviderPackage
-     */
-    public static final int FontFamily_fontProviderPackage=4;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontProviderQuery}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:fontProviderQuery
-     */
-    public static final int FontFamily_fontProviderQuery=5;
-    /**
      * Attributes that can be used with a FontFamilyFont.
      * <p>Includes the following attributes:</p>
      * <table>
@@ -6153,9 +6077,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font net.dawateislami.keyboard1:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle net.dawateislami.keyboard1:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight net.dawateislami.keyboard1:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font net.dawateislami.keyboard:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle net.dawateislami.keyboard:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight net.dawateislami.keyboard:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -6181,15 +6105,6 @@ public final class R {
      */
     public static final int FontFamilyFont_android_font=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#fontWeight}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name android:fontWeight
-     */
-    public static final int FontFamilyFont_android_fontWeight=1;
-    /**
      * <p>This symbol is the offset where the {@link android.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
@@ -6207,7 +6122,16 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#font}
+     * <p>This symbol is the offset where the {@link android.R.attr#fontWeight}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     *
+     * @attr name android:fontWeight
+     */
+    public static final int FontFamilyFont_android_fontWeight=1;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6215,11 +6139,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:font
+     * @attr name net.dawateislami.keyboard:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6232,18 +6156,94 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:fontStyle
+     * @attr name net.dawateislami.keyboard:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name net.dawateislami.keyboard1:fontWeight
+     * @attr name net.dawateislami.keyboard:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontProviderAuthority}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:fontProviderAuthority
+     */
+    public static final int FontFamily_fontProviderAuthority=0;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontProviderCerts}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:fontProviderCerts
+     */
+    public static final int FontFamily_fontProviderCerts=1;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontProviderFetchStrategy}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>async</td><td>1</td><td></td></tr>
+     * <tr><td>blocking</td><td>0</td><td></td></tr>
+     * </table>
+     *
+     * @attr name net.dawateislami.keyboard:fontProviderFetchStrategy
+     */
+    public static final int FontFamily_fontProviderFetchStrategy=2;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontProviderFetchTimeout}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
+     * </table>
+     *
+     * @attr name net.dawateislami.keyboard:fontProviderFetchTimeout
+     */
+    public static final int FontFamily_fontProviderFetchTimeout=3;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontProviderPackage}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:fontProviderPackage
+     */
+    public static final int FontFamily_fontProviderPackage=4;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontProviderQuery}
+     * attribute's value can be found in the {@link #FontFamily} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:fontProviderQuery
+     */
+    public static final int FontFamily_fontProviderQuery=5;
     /**
      * Attributes that can be used with a LinearLayoutCompat.
      * <p>Includes the following attributes:</p>
@@ -6256,10 +6256,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider net.dawateislami.keyboard1:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding net.dawateislami.keyboard1:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild net.dawateislami.keyboard1:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers net.dawateislami.keyboard1:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider net.dawateislami.keyboard:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding net.dawateislami.keyboard:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild net.dawateislami.keyboard:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers net.dawateislami.keyboard:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -6276,134 +6276,6 @@ public final class R {
         0x01010128, 0x7f020062, 0x7f020064, 0x7f020097, 
         0x7f0200b8
       };
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#gravity}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>center</td><td>11</td><td></td></tr>
-     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
-     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
-     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
-     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>fill</td><td>77</td><td></td></tr>
-     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
-     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:gravity
-     */
-    public static final int LinearLayoutCompat_android_gravity=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#orientation}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>horizontal</td><td>0</td><td></td></tr>
-     * <tr><td>vertical</td><td>1</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:orientation
-     */
-    public static final int LinearLayoutCompat_android_orientation=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name android:baselineAligned
-     */
-    public static final int LinearLayoutCompat_android_baselineAligned=2;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name android:baselineAlignedChildIndex
-     */
-    public static final int LinearLayoutCompat_android_baselineAlignedChildIndex=3;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#weightSum}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
-     *
-     * @attr name android:weightSum
-     */
-    public static final int LinearLayoutCompat_android_weightSum=4;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#divider}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:divider
-     */
-    public static final int LinearLayoutCompat_divider=5;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#dividerPadding}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:dividerPadding
-     */
-    public static final int LinearLayoutCompat_dividerPadding=6;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#measureWithLargestChild}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name net.dawateislami.keyboard1:measureWithLargestChild
-     */
-    public static final int LinearLayoutCompat_measureWithLargestChild=7;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#showDividers}
-     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>beginning</td><td>1</td><td></td></tr>
-     * <tr><td>end</td><td>4</td><td></td></tr>
-     * <tr><td>middle</td><td>2</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name net.dawateislami.keyboard1:showDividers
-     */
-    public static final int LinearLayoutCompat_showDividers=8;
     /**
      * Attributes that can be used with a LinearLayoutCompat_Layout.
      * <p>Includes the following attributes:</p>
@@ -6454,29 +6326,6 @@ public final class R {
      */
     public static final int LinearLayoutCompat_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_width}
-     * attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
-     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:layout_width
-     */
-    public static final int LinearLayoutCompat_Layout_android_layout_width=1;
-    /**
      * <p>This symbol is the offset where the {@link android.R.attr#layout_height}
      * attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
      *
@@ -6508,6 +6357,157 @@ public final class R {
      * @attr name android:layout_weight
      */
     public static final int LinearLayoutCompat_Layout_android_layout_weight=3;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_width}
+     * attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:layout_width
+     */
+    public static final int LinearLayoutCompat_Layout_android_layout_width=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name android:baselineAligned
+     */
+    public static final int LinearLayoutCompat_android_baselineAligned=2;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     *
+     * @attr name android:baselineAlignedChildIndex
+     */
+    public static final int LinearLayoutCompat_android_baselineAlignedChildIndex=3;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#gravity}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>center</td><td>11</td><td></td></tr>
+     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
+     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
+     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
+     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>fill</td><td>77</td><td></td></tr>
+     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
+     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:gravity
+     */
+    public static final int LinearLayoutCompat_android_gravity=0;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#orientation}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>horizontal</td><td>0</td><td></td></tr>
+     * <tr><td>vertical</td><td>1</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:orientation
+     */
+    public static final int LinearLayoutCompat_android_orientation=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#weightSum}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:weightSum
+     */
+    public static final int LinearLayoutCompat_android_weightSum=4;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#divider}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:divider
+     */
+    public static final int LinearLayoutCompat_divider=5;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#dividerPadding}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:dividerPadding
+     */
+    public static final int LinearLayoutCompat_dividerPadding=6;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#measureWithLargestChild}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name net.dawateislami.keyboard:measureWithLargestChild
+     */
+    public static final int LinearLayoutCompat_measureWithLargestChild=7;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#showDividers}
+     * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>beginning</td><td>1</td><td></td></tr>
+     * <tr><td>end</td><td>4</td><td></td></tr>
+     * <tr><td>middle</td><td>2</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * </table>
+     *
+     * @attr name net.dawateislami.keyboard:showDividers
+     */
+    public static final int LinearLayoutCompat_showDividers=8;
     /**
      * Attributes that can be used with a ListPopupWindow.
      * <p>Includes the following attributes:</p>
@@ -6576,6 +6576,24 @@ public final class R {
         0x010101df, 0x010101e0
       };
     /**
+     * <p>This symbol is the offset where the {@link android.R.attr#checkableBehavior}
+     * attribute's value can be found in the {@link #MenuGroup} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>all</td><td>1</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * <tr><td>single</td><td>2</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:checkableBehavior
+     */
+    public static final int MenuGroup_android_checkableBehavior=5;
+    /**
      * <p>This symbol is the offset where the {@link android.R.attr#enabled}
      * attribute's value can be found in the {@link #MenuGroup} array.
      *
@@ -6597,16 +6615,6 @@ public final class R {
      * @attr name android:id
      */
     public static final int MenuGroup_android_id=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#visible}
-     * attribute's value can be found in the {@link #MenuGroup} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name android:visible
-     */
-    public static final int MenuGroup_android_visible=2;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
      * attribute's value can be found in the {@link #MenuGroup} array.
@@ -6636,23 +6644,15 @@ public final class R {
      */
     public static final int MenuGroup_android_orderInCategory=4;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#checkableBehavior}
+     * <p>This symbol is the offset where the {@link android.R.attr#visible}
      * attribute's value can be found in the {@link #MenuGroup} array.
      *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>all</td><td>1</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * <tr><td>single</td><td>2</td><td></td></tr>
-     * </table>
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
      *
-     * @attr name android:checkableBehavior
+     * @attr name android:visible
      */
-    public static final int MenuGroup_android_checkableBehavior=5;
+    public static final int MenuGroup_android_visible=2;
     /**
      * Attributes that can be used with a MenuItem.
      * <p>Includes the following attributes:</p>
@@ -6673,16 +6673,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout net.dawateislami.keyboard1:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass net.dawateislami.keyboard1:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass net.dawateislami.keyboard1:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers net.dawateislami.keyboard1:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription net.dawateislami.keyboard1:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint net.dawateislami.keyboard1:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode net.dawateislami.keyboard1:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers net.dawateislami.keyboard1:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction net.dawateislami.keyboard1:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText net.dawateislami.keyboard1:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout net.dawateislami.keyboard:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass net.dawateislami.keyboard:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass net.dawateislami.keyboard:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers net.dawateislami.keyboard:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription net.dawateislami.keyboard:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint net.dawateislami.keyboard:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode net.dawateislami.keyboard:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers net.dawateislami.keyboard:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction net.dawateislami.keyboard:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText net.dawateislami.keyboard:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -6717,6 +6717,99 @@ public final class R {
         0x7f02009c, 0x7f0200b7, 0x7f0200f0
       };
     /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionLayout}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:actionLayout
+     */
+    public static final int MenuItem_actionLayout=13;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionProviderClass}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:actionProviderClass
+     */
+    public static final int MenuItem_actionProviderClass=14;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#actionViewClass}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name net.dawateislami.keyboard:actionViewClass
+     */
+    public static final int MenuItem_actionViewClass=15;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#alphabeticModifiers}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>ALT</td><td>2</td><td></td></tr>
+     * <tr><td>CTRL</td><td>1000</td><td></td></tr>
+     * <tr><td>FUNCTION</td><td>8</td><td></td></tr>
+     * <tr><td>META</td><td>10000</td><td></td></tr>
+     * <tr><td>SHIFT</td><td>1</td><td></td></tr>
+     * <tr><td>SYM</td><td>4</td><td></td></tr>
+     * </table>
+     *
+     * @attr name net.dawateislami.keyboard:alphabeticModifiers
+     */
+    public static final int MenuItem_alphabeticModifiers=16;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name android:alphabeticShortcut
+     */
+    public static final int MenuItem_android_alphabeticShortcut=9;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#checkable}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name android:checkable
+     */
+    public static final int MenuItem_android_checkable=11;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#checked}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name android:checked
+     */
+    public static final int MenuItem_android_checked=3;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#enabled}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name android:enabled
+     */
+    public static final int MenuItem_android_enabled=1;
+    /**
      * <p>This symbol is the offset where the {@link android.R.attr#icon}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
@@ -6729,16 +6822,6 @@ public final class R {
      */
     public static final int MenuItem_android_icon=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#enabled}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name android:enabled
-     */
-    public static final int MenuItem_android_enabled=1;
-    /**
      * <p>This symbol is the offset where the {@link android.R.attr#id}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
@@ -6750,26 +6833,6 @@ public final class R {
      * @attr name android:id
      */
     public static final int MenuItem_android_id=2;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#checked}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name android:checked
-     */
-    public static final int MenuItem_android_checked=3;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#visible}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name android:visible
-     */
-    public static final int MenuItem_android_visible=4;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
      * attribute's value can be found in the {@link #MenuItem} array.
@@ -6789,6 +6852,26 @@ public final class R {
      * @attr name android:menuCategory
      */
     public static final int MenuItem_android_menuCategory=5;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name android:numericShortcut
+     */
+    public static final int MenuItem_android_numericShortcut=10;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#onClick}
+     * attribute's value can be found in the {@link #MenuItem} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name android:onClick
+     */
+    public static final int MenuItem_android_onClick=12;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
      * attribute's value can be found in the {@link #MenuItem} array.
@@ -6819,121 +6902,38 @@ public final class R {
      */
     public static final int MenuItem_android_titleCondensed=8;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name android:alphabeticShortcut
-     */
-    public static final int MenuItem_android_alphabeticShortcut=9;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name android:numericShortcut
-     */
-    public static final int MenuItem_android_numericShortcut=10;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#checkable}
+     * <p>This symbol is the offset where the {@link android.R.attr#visible}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name android:checkable
+     * @attr name android:visible
      */
-    public static final int MenuItem_android_checkable=11;
+    public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#onClick}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name android:onClick
-     */
-    public static final int MenuItem_android_onClick=12;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionLayout}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:actionLayout
-     */
-    public static final int MenuItem_actionLayout=13;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionProviderClass}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:actionProviderClass
-     */
-    public static final int MenuItem_actionProviderClass=14;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#actionViewClass}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:actionViewClass
-     */
-    public static final int MenuItem_actionViewClass=15;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#alphabeticModifiers}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>ALT</td><td>2</td><td></td></tr>
-     * <tr><td>CTRL</td><td>1000</td><td></td></tr>
-     * <tr><td>FUNCTION</td><td>8</td><td></td></tr>
-     * <tr><td>META</td><td>10000</td><td></td></tr>
-     * <tr><td>SHIFT</td><td>1</td><td></td></tr>
-     * <tr><td>SYM</td><td>4</td><td></td></tr>
-     * </table>
-     *
-     * @attr name net.dawateislami.keyboard1:alphabeticModifiers
-     */
-    public static final int MenuItem_alphabeticModifiers=16;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentDescription}
-     * attribute's value can be found in the {@link #MenuItem} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:contentDescription
+     * @attr name net.dawateislami.keyboard:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:iconTint
+     * @attr name net.dawateislami.keyboard:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6950,11 +6950,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:iconTintMode
+     * @attr name net.dawateislami.keyboard:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6971,11 +6971,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:numericModifiers
+     * @attr name net.dawateislami.keyboard:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6991,17 +6991,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:showAsAction
+     * @attr name net.dawateislami.keyboard:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:tooltipText
+     * @attr name net.dawateislami.keyboard:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -7018,8 +7018,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing net.dawateislami.keyboard1:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow net.dawateislami.keyboard1:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing net.dawateislami.keyboard:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow net.dawateislami.keyboard:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -7037,54 +7037,6 @@ public final class R {
         0x7f0200c2
       };
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
-     * attribute's value can be found in the {@link #MenuView} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:windowAnimationStyle
-     */
-    public static final int MenuView_android_windowAnimationStyle=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
-     * attribute's value can be found in the {@link #MenuView} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:itemTextAppearance
-     */
-    public static final int MenuView_android_itemTextAppearance=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
-     * attribute's value can be found in the {@link #MenuView} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:horizontalDivider
-     */
-    public static final int MenuView_android_horizontalDivider=2;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
-     * attribute's value can be found in the {@link #MenuView} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:verticalDivider
-     */
-    public static final int MenuView_android_verticalDivider=3;
-    /**
      * <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
      * attribute's value can be found in the {@link #MenuView} array.
      *
@@ -7099,6 +7051,18 @@ public final class R {
      * @attr name android:headerBackground
      */
     public static final int MenuView_android_headerBackground=4;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
+     * attribute's value can be found in the {@link #MenuView} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:horizontalDivider
+     */
+    public static final int MenuView_android_horizontalDivider=2;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#itemBackground}
      * attribute's value can be found in the {@link #MenuView} array.
@@ -7124,17 +7088,7 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#preserveIconSpacing}
-     * attribute's value can be found in the {@link #MenuView} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name net.dawateislami.keyboard1:preserveIconSpacing
-     */
-    public static final int MenuView_preserveIconSpacing=7;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7142,7 +7096,53 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:subMenuArrow
+     * @attr name android:itemTextAppearance
+     */
+    public static final int MenuView_android_itemTextAppearance=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
+     * attribute's value can be found in the {@link #MenuView} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:verticalDivider
+     */
+    public static final int MenuView_android_verticalDivider=3;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
+     * attribute's value can be found in the {@link #MenuView} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:windowAnimationStyle
+     */
+    public static final int MenuView_android_windowAnimationStyle=0;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#preserveIconSpacing}
+     * attribute's value can be found in the {@link #MenuView} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name net.dawateislami.keyboard:preserveIconSpacing
+     */
+    public static final int MenuView_preserveIconSpacing=7;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subMenuArrow}
+     * attribute's value can be found in the {@link #MenuView} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -7154,7 +7154,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor net.dawateislami.keyboard1:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor net.dawateislami.keyboard:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -7163,6 +7163,42 @@ public final class R {
     public static final int[] PopupWindow={
         0x01010176, 0x010102c9, 0x7f02009d
       };
+    /**
+     * Attributes that can be used with a PopupWindowBackgroundState.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor net.dawateislami.keyboard:state_above_anchor}</code></td><td></td></tr>
+     * </table>
+     * @see #PopupWindowBackgroundState_state_above_anchor
+     */
+    public static final int[] PopupWindowBackgroundState={
+        0x7f0200c1
+      };
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#state_above_anchor}
+     * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     *
+     * @attr name net.dawateislami.keyboard:state_above_anchor
+     */
+    public static final int PopupWindowBackgroundState_state_above_anchor=0;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#popupAnimationStyle}
+     * attribute's value can be found in the {@link #PopupWindow} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:popupAnimationStyle
+     */
+    public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
      * attribute's value can be found in the {@link #PopupWindow} array.
@@ -7179,51 +7215,15 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#popupAnimationStyle}
-     * attribute's value can be found in the {@link #PopupWindow} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:popupAnimationStyle
-     */
-    public static final int PopupWindow_android_popupAnimationStyle=1;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:overlapAnchor
+     * @attr name net.dawateislami.keyboard:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
-    /**
-     * Attributes that can be used with a PopupWindowBackgroundState.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor net.dawateislami.keyboard1:state_above_anchor}</code></td><td></td></tr>
-     * </table>
-     * @see #PopupWindowBackgroundState_state_above_anchor
-     */
-    public static final int[] PopupWindowBackgroundState={
-        0x7f0200c1
-      };
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#state_above_anchor}
-     * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     *
-     * @attr name net.dawateislami.keyboard1:state_above_anchor
-     */
-    public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
      * Attributes that can be used with a RecycleListView.
      * <p>Includes the following attributes:</p>
@@ -7231,8 +7231,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons net.dawateislami.keyboard1:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle net.dawateislami.keyboard1:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons net.dawateislami.keyboard:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle net.dawateislami.keyboard:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -7241,7 +7241,7 @@ public final class R {
         0x7f02009e, 0x7f0200a1
       };
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7250,11 +7250,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:paddingBottomNoButtons
+     * @attr name net.dawateislami.keyboard:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7263,7 +7263,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:paddingTopNoTitle
+     * @attr name net.dawateislami.keyboard:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -7277,19 +7277,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon net.dawateislami.keyboard1:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon net.dawateislami.keyboard1:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint net.dawateislami.keyboard1:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon net.dawateislami.keyboard1:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault net.dawateislami.keyboard1:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout net.dawateislami.keyboard1:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground net.dawateislami.keyboard1:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint net.dawateislami.keyboard1:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon net.dawateislami.keyboard1:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon net.dawateislami.keyboard1:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground net.dawateislami.keyboard1:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout net.dawateislami.keyboard1:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon net.dawateislami.keyboard1:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon net.dawateislami.keyboard:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon net.dawateislami.keyboard:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint net.dawateislami.keyboard:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon net.dawateislami.keyboard:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault net.dawateislami.keyboard:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout net.dawateislami.keyboard:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground net.dawateislami.keyboard:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint net.dawateislami.keyboard:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon net.dawateislami.keyboard:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon net.dawateislami.keyboard:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground net.dawateislami.keyboard:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout net.dawateislami.keyboard:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon net.dawateislami.keyboard:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -7335,18 +7335,37 @@ public final class R {
      */
     public static final int SearchView_android_focusable=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+     * <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
      * attribute's value can be found in the {@link #SearchView} array.
      *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>actionDone</td><td>6</td><td></td></tr>
+     * <tr><td>actionGo</td><td>2</td><td></td></tr>
+     * <tr><td>actionNext</td><td>5</td><td></td></tr>
+     * <tr><td>actionNone</td><td>1</td><td></td></tr>
+     * <tr><td>actionPrevious</td><td>7</td><td></td></tr>
+     * <tr><td>actionSearch</td><td>3</td><td></td></tr>
+     * <tr><td>actionSend</td><td>4</td><td></td></tr>
+     * <tr><td>actionUnspecified</td><td>0</td><td></td></tr>
+     * <tr><td>flagForceAscii</td><td>80000000</td><td></td></tr>
+     * <tr><td>flagNavigateNext</td><td>8000000</td><td></td></tr>
+     * <tr><td>flagNavigatePrevious</td><td>4000000</td><td></td></tr>
+     * <tr><td>flagNoAccessoryAction</td><td>20000000</td><td></td></tr>
+     * <tr><td>flagNoEnterAction</td><td>40000000</td><td></td></tr>
+     * <tr><td>flagNoExtractUi</td><td>10000000</td><td></td></tr>
+     * <tr><td>flagNoFullscreen</td><td>2000000</td><td></td></tr>
+     * <tr><td>flagNoPersonalizedLearning</td><td>1000000</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * </table>
      *
-     * @attr name android:maxWidth
+     * @attr name android:imeOptions
      */
-    public static final int SearchView_android_maxWidth=1;
+    public static final int SearchView_android_imeOptions=3;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#inputType}
      * attribute's value can be found in the {@link #SearchView} array.
@@ -7395,39 +7414,20 @@ public final class R {
      */
     public static final int SearchView_android_inputType=2;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
+     * <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
      * attribute's value can be found in the {@link #SearchView} array.
      *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>actionDone</td><td>6</td><td></td></tr>
-     * <tr><td>actionGo</td><td>2</td><td></td></tr>
-     * <tr><td>actionNext</td><td>5</td><td></td></tr>
-     * <tr><td>actionNone</td><td>1</td><td></td></tr>
-     * <tr><td>actionPrevious</td><td>7</td><td></td></tr>
-     * <tr><td>actionSearch</td><td>3</td><td></td></tr>
-     * <tr><td>actionSend</td><td>4</td><td></td></tr>
-     * <tr><td>actionUnspecified</td><td>0</td><td></td></tr>
-     * <tr><td>flagForceAscii</td><td>80000000</td><td></td></tr>
-     * <tr><td>flagNavigateNext</td><td>8000000</td><td></td></tr>
-     * <tr><td>flagNavigatePrevious</td><td>4000000</td><td></td></tr>
-     * <tr><td>flagNoAccessoryAction</td><td>20000000</td><td></td></tr>
-     * <tr><td>flagNoEnterAction</td><td>40000000</td><td></td></tr>
-     * <tr><td>flagNoExtractUi</td><td>10000000</td><td></td></tr>
-     * <tr><td>flagNoFullscreen</td><td>2000000</td><td></td></tr>
-     * <tr><td>flagNoPersonalizedLearning</td><td>1000000</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
      *
-     * @attr name android:imeOptions
+     * @attr name android:maxWidth
      */
-    public static final int SearchView_android_imeOptions=3;
+    public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7435,11 +7435,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:closeIcon
+     * @attr name net.dawateislami.keyboard:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7447,21 +7447,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:commitIcon
+     * @attr name net.dawateislami.keyboard:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:defaultQueryHint
+     * @attr name net.dawateislami.keyboard:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7469,21 +7469,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:goIcon
+     * @attr name net.dawateislami.keyboard:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:iconifiedByDefault
+     * @attr name net.dawateislami.keyboard:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#layout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7491,11 +7491,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:layout
+     * @attr name net.dawateislami.keyboard:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7503,21 +7503,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:queryBackground
+     * @attr name net.dawateislami.keyboard:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:queryHint
+     * @attr name net.dawateislami.keyboard:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7525,11 +7525,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:searchHintIcon
+     * @attr name net.dawateislami.keyboard:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7537,11 +7537,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:searchIcon
+     * @attr name net.dawateislami.keyboard:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7549,11 +7549,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:submitBackground
+     * @attr name net.dawateislami.keyboard:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7561,11 +7561,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:suggestionRowLayout
+     * @attr name net.dawateislami.keyboard:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7573,7 +7573,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:voiceIcon
+     * @attr name net.dawateislami.keyboard:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -7587,7 +7587,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme net.dawateislami.keyboard1:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme net.dawateislami.keyboard:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -7599,6 +7599,29 @@ public final class R {
         0x010100b2, 0x01010176, 0x0101017b, 0x01010262, 
         0x7f0200a6
       };
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
+     * attribute's value can be found in the {@link #Spinner} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:dropDownWidth
+     */
+    public static final int Spinner_android_dropDownWidth=3;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#entries}
      * attribute's value can be found in the {@link #Spinner} array.
@@ -7639,30 +7662,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
-     * attribute's value can be found in the {@link #Spinner} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
-     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:dropDownWidth
-     */
-    public static final int Spinner_android_dropDownWidth=3;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7670,7 +7670,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:popupTheme
+     * @attr name net.dawateislami.keyboard:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -7683,17 +7683,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText net.dawateislami.keyboard1:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack net.dawateislami.keyboard1:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth net.dawateislami.keyboard1:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding net.dawateislami.keyboard1:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance net.dawateislami.keyboard1:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding net.dawateislami.keyboard1:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint net.dawateislami.keyboard1:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode net.dawateislami.keyboard1:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track net.dawateislami.keyboard1:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint net.dawateislami.keyboard1:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode net.dawateislami.keyboard1:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText net.dawateislami.keyboard:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack net.dawateislami.keyboard:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth net.dawateislami.keyboard:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding net.dawateislami.keyboard:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance net.dawateislami.keyboard:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding net.dawateislami.keyboard:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint net.dawateislami.keyboard:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode net.dawateislami.keyboard:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track net.dawateislami.keyboard:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint net.dawateislami.keyboard:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode net.dawateislami.keyboard:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -7717,16 +7717,6 @@ public final class R {
         0x7f0200f2, 0x7f0200f3
       };
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#textOn}
-     * attribute's value can be found in the {@link #SwitchCompat} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name android:textOn
-     */
-    public static final int SwitchCompat_android_textOn=0;
-    /**
      * <p>This symbol is the offset where the {@link android.R.attr#textOff}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
@@ -7736,6 +7726,16 @@ public final class R {
      * @attr name android:textOff
      */
     public static final int SwitchCompat_android_textOff=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#textOn}
+     * attribute's value can be found in the {@link #SwitchCompat} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name android:textOn
+     */
+    public static final int SwitchCompat_android_textOn=0;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#thumb}
      * attribute's value can be found in the {@link #SwitchCompat} array.
@@ -7749,27 +7749,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#showText}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:showText
+     * @attr name net.dawateislami.keyboard:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:splitTrack
+     * @attr name net.dawateislami.keyboard:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7778,11 +7778,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:switchMinWidth
+     * @attr name net.dawateislami.keyboard:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7791,11 +7791,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:switchPadding
+     * @attr name net.dawateislami.keyboard:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7803,11 +7803,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:switchTextAppearance
+     * @attr name net.dawateislami.keyboard:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7816,22 +7816,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:thumbTextPadding
+     * @attr name net.dawateislami.keyboard:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:thumbTint
+     * @attr name net.dawateislami.keyboard:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7848,11 +7848,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:thumbTintMode
+     * @attr name net.dawateislami.keyboard:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#track}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7860,22 +7860,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:track
+     * @attr name net.dawateislami.keyboard:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:trackTint
+     * @attr name net.dawateislami.keyboard:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7892,7 +7892,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:trackTintMode
+     * @attr name net.dawateislami.keyboard:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -7913,8 +7913,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily net.dawateislami.keyboard1:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps net.dawateislami.keyboard1:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily net.dawateislami.keyboard:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps net.dawateislami.keyboard:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -7937,55 +7937,53 @@ public final class R {
         0x7f0200cd
       };
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#textSize}
+     * <p>This symbol is the offset where the {@link android.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name android:textSize
+     * @attr name android:fontFamily
      */
-    public static final int TextAppearance_android_textSize=0;
+    public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#typeface}
+     * <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>monospace</td><td>3</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * <tr><td>sans</td><td>1</td><td></td></tr>
-     * <tr><td>serif</td><td>2</td><td></td></tr>
-     * </table>
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name android:typeface
+     * @attr name android:shadowColor
      */
-    public static final int TextAppearance_android_typeface=1;
+    public static final int TextAppearance_android_shadowColor=6;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#textStyle}
+     * <p>This symbol is the offset where the {@link android.R.attr#shadowDx}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bold</td><td>1</td><td></td></tr>
-     * <tr><td>italic</td><td>2</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
+     * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name android:textStyle
+     * @attr name android:shadowDx
      */
-    public static final int TextAppearance_android_textStyle=2;
+    public static final int TextAppearance_android_shadowDx=7;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#shadowDy}
+     * attribute's value can be found in the {@link #TextAppearance} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:shadowDy
+     */
+    public static final int TextAppearance_android_shadowDy=8;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#shadowRadius}
+     * attribute's value can be found in the {@link #TextAppearance} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:shadowRadius
+     */
+    public static final int TextAppearance_android_shadowRadius=9;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#textColor}
      * attribute's value can be found in the {@link #TextAppearance} array.
@@ -8032,65 +8030,67 @@ public final class R {
      */
     public static final int TextAppearance_android_textColorLink=5;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
+     * <p>This symbol is the offset where the {@link android.R.attr#textSize}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
      *
-     * @attr name android:shadowColor
+     * @attr name android:textSize
      */
-    public static final int TextAppearance_android_shadowColor=6;
+    public static final int TextAppearance_android_textSize=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#shadowDx}
+     * <p>This symbol is the offset where the {@link android.R.attr#textStyle}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bold</td><td>1</td><td></td></tr>
+     * <tr><td>italic</td><td>2</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * </table>
      *
-     * @attr name android:shadowDx
+     * @attr name android:textStyle
      */
-    public static final int TextAppearance_android_shadowDx=7;
+    public static final int TextAppearance_android_textStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#shadowDy}
+     * <p>This symbol is the offset where the {@link android.R.attr#typeface}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>monospace</td><td>3</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * <tr><td>sans</td><td>1</td><td></td></tr>
+     * <tr><td>serif</td><td>2</td><td></td></tr>
+     * </table>
      *
-     * @attr name android:shadowDy
+     * @attr name android:typeface
      */
-    public static final int TextAppearance_android_shadowDy=8;
+    public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#shadowRadius}
-     * attribute's value can be found in the {@link #TextAppearance} array.
-     *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
-     *
-     * @attr name android:shadowRadius
-     */
-    public static final int TextAppearance_android_shadowRadius=9;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name android:fontFamily
-     */
-    public static final int TextAppearance_android_fontFamily=10;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#fontFamily}
-     * attribute's value can be found in the {@link #TextAppearance} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name net.dawateislami.keyboard1:fontFamily
+     * @attr name net.dawateislami.keyboard:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8100,7 +8100,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.dawateislami.keyboard1:textAllCaps
+     * @attr name net.dawateislami.keyboard:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -8112,33 +8112,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity net.dawateislami.keyboard1:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription net.dawateislami.keyboard1:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon net.dawateislami.keyboard1:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd net.dawateislami.keyboard1:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions net.dawateislami.keyboard1:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft net.dawateislami.keyboard1:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight net.dawateislami.keyboard1:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart net.dawateislami.keyboard1:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation net.dawateislami.keyboard1:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo net.dawateislami.keyboard1:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription net.dawateislami.keyboard1:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight net.dawateislami.keyboard1:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription net.dawateislami.keyboard1:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon net.dawateislami.keyboard1:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme net.dawateislami.keyboard1:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle net.dawateislami.keyboard1:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance net.dawateislami.keyboard1:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor net.dawateislami.keyboard1:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title net.dawateislami.keyboard1:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin net.dawateislami.keyboard1:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom net.dawateislami.keyboard1:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd net.dawateislami.keyboard1:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart net.dawateislami.keyboard1:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop net.dawateislami.keyboard1:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins net.dawateislami.keyboard1:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance net.dawateislami.keyboard1:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor net.dawateislami.keyboard1:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity net.dawateislami.keyboard:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription net.dawateislami.keyboard:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon net.dawateislami.keyboard:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd net.dawateislami.keyboard:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions net.dawateislami.keyboard:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft net.dawateislami.keyboard:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight net.dawateislami.keyboard:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart net.dawateislami.keyboard:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation net.dawateislami.keyboard:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo net.dawateislami.keyboard:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription net.dawateislami.keyboard:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight net.dawateislami.keyboard:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription net.dawateislami.keyboard:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon net.dawateislami.keyboard:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme net.dawateislami.keyboard:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle net.dawateislami.keyboard:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance net.dawateislami.keyboard:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor net.dawateislami.keyboard:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title net.dawateislami.keyboard:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin net.dawateislami.keyboard:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom net.dawateislami.keyboard:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd net.dawateislami.keyboard:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart net.dawateislami.keyboard:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop net.dawateislami.keyboard:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins net.dawateislami.keyboard:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance net.dawateislami.keyboard:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor net.dawateislami.keyboard:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -8223,7 +8223,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8236,21 +8236,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:buttonGravity
+     * @attr name net.dawateislami.keyboard:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:collapseContentDescription
+     * @attr name net.dawateislami.keyboard:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8258,11 +8258,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:collapseIcon
+     * @attr name net.dawateislami.keyboard:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8271,11 +8271,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:contentInsetEnd
+     * @attr name net.dawateislami.keyboard:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8284,11 +8284,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:contentInsetEndWithActions
+     * @attr name net.dawateislami.keyboard:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8297,11 +8297,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:contentInsetLeft
+     * @attr name net.dawateislami.keyboard:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8310,11 +8310,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:contentInsetRight
+     * @attr name net.dawateislami.keyboard:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8323,11 +8323,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:contentInsetStart
+     * @attr name net.dawateislami.keyboard:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8336,11 +8336,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:contentInsetStartWithNavigation
+     * @attr name net.dawateislami.keyboard:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#logo}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8348,21 +8348,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:logo
+     * @attr name net.dawateislami.keyboard:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:logoDescription
+     * @attr name net.dawateislami.keyboard:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8371,21 +8371,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:maxButtonHeight
+     * @attr name net.dawateislami.keyboard:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:navigationContentDescription
+     * @attr name net.dawateislami.keyboard:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8393,11 +8393,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:navigationIcon
+     * @attr name net.dawateislami.keyboard:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8405,21 +8405,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:popupTheme
+     * @attr name net.dawateislami.keyboard:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:subtitle
+     * @attr name net.dawateislami.keyboard:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8427,32 +8427,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:subtitleTextAppearance
+     * @attr name net.dawateislami.keyboard:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:subtitleTextColor
+     * @attr name net.dawateislami.keyboard:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#title}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name net.dawateislami.keyboard1:title
+     * @attr name net.dawateislami.keyboard:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8461,11 +8461,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:titleMargin
+     * @attr name net.dawateislami.keyboard:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8474,11 +8474,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:titleMarginBottom
+     * @attr name net.dawateislami.keyboard:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8487,11 +8487,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:titleMarginEnd
+     * @attr name net.dawateislami.keyboard:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8500,11 +8500,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:titleMarginStart
+     * @attr name net.dawateislami.keyboard:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8513,11 +8513,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:titleMarginTop
+     * @attr name net.dawateislami.keyboard:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8526,11 +8526,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name net.dawateislami.keyboard1:titleMargins
+     * @attr name net.dawateislami.keyboard:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8538,18 +8538,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:titleTextAppearance
+     * @attr name net.dawateislami.keyboard:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:titleTextColor
+     * @attr name net.dawateislami.keyboard:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -8561,9 +8561,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd net.dawateislami.keyboard1:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart net.dawateislami.keyboard1:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme net.dawateislami.keyboard1:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd net.dawateislami.keyboard:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart net.dawateislami.keyboard:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme net.dawateislami.keyboard:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -8576,74 +8576,6 @@ public final class R {
         0x7f0200d8
       };
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#theme}
-     * attribute's value can be found in the {@link #View} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:theme
-     */
-    public static final int View_android_theme=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#focusable}
-     * attribute's value can be found in the {@link #View} array.
-     *
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>auto</td><td>10</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:focusable
-     */
-    public static final int View_android_focusable=1;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#paddingEnd}
-     * attribute's value can be found in the {@link #View} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:paddingEnd
-     */
-    public static final int View_paddingEnd=2;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#paddingStart}
-     * attribute's value can be found in the {@link #View} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name net.dawateislami.keyboard1:paddingStart
-     */
-    public static final int View_paddingStart=3;
-    /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#theme}
-     * attribute's value can be found in the {@link #View} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name net.dawateislami.keyboard1:theme
-     */
-    public static final int View_theme=4;
-    /**
      * Attributes that can be used with a ViewBackgroundHelper.
      * <p>Includes the following attributes:</p>
      * <table>
@@ -8651,8 +8583,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint net.dawateislami.keyboard1:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode net.dawateislami.keyboard1:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint net.dawateislami.keyboard:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode net.dawateislami.keyboard:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -8677,18 +8609,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name net.dawateislami.keyboard1:backgroundTint
+     * @attr name net.dawateislami.keyboard:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard1.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8705,7 +8637,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name net.dawateislami.keyboard1:backgroundTintMode
+     * @attr name net.dawateislami.keyboard:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -8739,6 +8671,18 @@ public final class R {
      */
     public static final int ViewStubCompat_android_id=0;
     /**
+     * <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
+     * attribute's value can be found in the {@link #ViewStubCompat} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:inflatedId
+     */
+    public static final int ViewStubCompat_android_inflatedId=2;
+    /**
      * <p>This symbol is the offset where the {@link android.R.attr#layout}
      * attribute's value can be found in the {@link #ViewStubCompat} array.
      *
@@ -8751,17 +8695,73 @@ public final class R {
      */
     public static final int ViewStubCompat_android_layout=1;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
-     * attribute's value can be found in the {@link #ViewStubCompat} array.
+     * <p>This symbol is the offset where the {@link android.R.attr#focusable}
+     * attribute's value can be found in the {@link #View} array.
+     *
+     * <p>May be a boolean value, such as "<code>true</code>" or
+     * "<code>false</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>auto</td><td>10</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:focusable
+     */
+    public static final int View_android_focusable=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#theme}
+     * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name android:inflatedId
+     * @attr name android:theme
      */
-    public static final int ViewStubCompat_android_inflatedId=2;
+    public static final int View_android_theme=0;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#paddingEnd}
+     * attribute's value can be found in the {@link #View} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:paddingEnd
+     */
+    public static final int View_paddingEnd=2;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#paddingStart}
+     * attribute's value can be found in the {@link #View} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name net.dawateislami.keyboard:paddingStart
+     */
+    public static final int View_paddingStart=3;
+    /**
+     * <p>This symbol is the offset where the {@link net.dawateislami.keyboard.R.attr#theme}
+     * attribute's value can be found in the {@link #View} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name net.dawateislami.keyboard:theme
+     */
+    public static final int View_theme=4;
   }
   public static final class xml {
     public static final int arabic=0x7f0e0000;

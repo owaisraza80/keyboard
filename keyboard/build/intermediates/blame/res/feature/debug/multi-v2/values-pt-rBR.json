@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7f4e425ba67dd35c1dc3111cebcd3839/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8922e10f004dd77f142dfea5268586ae/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    }
+                },
+                {
+                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/426b24c53aab252097f81c0c4c845634/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1989",
                         "endColumns": "100",
                         "endOffsets": "2085"
-                    }
-                },
-                {
-                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/104d9e7133fb1a673ab7bdc4b97520d1/res/values-pt-rBR/values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
-                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
-                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
                     }
                 }
             ]

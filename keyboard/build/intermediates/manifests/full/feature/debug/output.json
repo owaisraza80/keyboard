@@ -1,1 +1,1 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"keyboard2-debug.apk","fullName":"debugFeature","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"net.dawateislami.keyboard1","split":"","minSdkVersion":"19"}}]
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"AndroidManifest.xml","properties":{"packageId":"net.dawateislami.keyboard","split":"","minSdkVersion":"19"}}]

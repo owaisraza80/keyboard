@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard/keyboard2/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/104d9e7133fb1a673ab7bdc4b97520d1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/naumanhaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8922e10f004dd77f142dfea5268586ae/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
