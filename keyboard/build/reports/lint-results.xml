@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 2.3.3">
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.dimen.candidate_font_height` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="    &lt;dimen name=&quot;candidate_font_height&quot;>16sp&lt;/dimen>"
+        errorLine2="           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/values/dimens.xml"
+            line="4"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.dimen.candidate_vertical_padding` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="    &lt;dimen name=&quot;candidate_vertical_padding&quot;>6sp&lt;/dimen>"
+        errorLine2="           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/values/dimens.xml"
+            line="5"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.drawable.egypt` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/egypt.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.drawable.icon_ar_eg` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/icon_ar_eg.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.drawable.icon_en_gb` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/icon_en_gb.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.drawable.icon_en_us` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/icon_en_us.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.keyboard_popup_layout` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;Keyboard xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/keyboard_popup_layout.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.qwerty` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;Keyboard xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/qwerty.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_ar` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_ar.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_ar_ma` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_ar_ma.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_en` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_en_ng` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en_ng.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_en_ph` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en_ph.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_en_qwerty` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_en_qwerty.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.softkeys_input_ur_pk` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        errorLine1="&lt;framework xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/xml/softkeys_input_ur_pk.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.drawable.sym_keyboard_search` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds."
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/sym_keyboard_search.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherFormat"
+        severity="Error"
+        message="Launcher icons must be in PNG format"
+        category="Usability:Icons"
+        priority="6"
+        summary="Wrong launcher icon format"
+        explanation="Launcher icons should be in the PNG format. This requirement is enforced by the The Google Play Developer Console."
+        url="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        urls="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"/>
+    </issue>
+
+    <issue
+        id="IconLauncherFormat"
+        severity="Error"
+        message="Launcher icons must be in PNG format"
+        category="Usability:Icons"
+        priority="6"
+        summary="Wrong launcher icon format"
+        explanation="Launcher icons should be in the PNG format. This requirement is enforced by the The Google Play Developer Console."
+        url="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        urls="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable/ic_launcher_background.xml"/>
+    </issue>
+
+    <issue
+        id="IconLauncherFormat"
+        severity="Error"
+        message="Launcher icons must be in PNG format"
+        category="Usability:Icons"
+        priority="6"
+        summary="Wrong launcher icon format"
+        explanation="Launcher icons should be in the PNG format. This requirement is enforced by the The Google Play Developer Console."
+        url="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        urls="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-v24/ic_launcher_foreground.xml"/>
+    </issue>
+
+    <issue
+        id="IconLauncherFormat"
+        severity="Error"
+        message="Launcher icons must be in PNG format"
+        category="Usability:Icons"
+        priority="6"
+        summary="Wrong launcher icon format"
+        explanation="Launcher icons should be in the PNG format. This requirement is enforced by the The Google Play Developer Console."
+        url="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        urls="https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size"
+        quickfix="studio">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        severity="Warning"
+        message="The following unrelated icon files have identical contents: icon_ar_eg.png, icon_en_us.png"
+        category="Usability:Icons"
+        priority="3"
+        summary="Duplicated icons under different names"
+        explanation="If an icon is repeated under different names, you can consolidate and just use one of the icons and delete the others to make your application smaller. However, duplicated icons usually are not intentional and can sometimes point to icons that were accidentally overwritten or accidentally not updated.">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/icon_en_us.png"/>
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res/drawable-hdpi/icon_ar_eg.png"/>
+    </issue>
+
+    <issue
+        id="IconMissingDensityFolder"
+        severity="Warning"
+        message="Missing density variation folders in `src/main/res`: drawable-mdpi, drawable-xhdpi, drawable-xxhdpi"
+        category="Usability:Icons"
+        priority="3"
+        summary="Missing density folder"
+        explanation="Icons will look best if a custom version is provided for each of the major screen density classes (low, medium, high, extra-high, extra-extra-high). This lint check identifies folders which are missing, such as `drawable-hdpi`.&#xA;&#xA;Low density is not really used much anymore, so this check ignores the ldpi density. To force lint to include it, set the environment variable `ANDROID_LINT_INCLUDE_LDPI=true`. For more information on current density usage, see http://developer.android.com/resources/dashboard/screens.html"
+        url="http://developer.android.com/guide/practices/screens_support.html"
+        urls="http://developer.android.com/guide/practices/screens_support.html">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/res"/>
+    </issue>
+
+    <issue
+        id="ClickableViewAccessibility"
+        severity="Warning"
+        message="`net/dawateislami/keyboard/CustomKeyboardView$5#onTouch` should call `View#performClick` when a click is detected"
+        category="Accessibility"
+        priority="6"
+        summary="Accessibility in Custom Views"
+        explanation="If a `View` that overrides `onTouchEvent` or uses an `OnTouchListener` does not also implement `performClick` and call it when clicks are detected, the `View` may not handle accessibility actions properly. Logic handling the click actions should ideally be placed in `View#performClick` as some accessibility services invoke `performClick` when a click action should occur."
+        errorLine1="            public boolean onTouch(View view, MotionEvent event) {"
+        errorLine2="                           ~~~~~~~">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java"
+            line="211"
+            column="28"/>
+    </issue>
+
+    <issue
+        id="SetTextI18n"
+        severity="Warning"
+        message="Do not concatenate text displayed with `setText`. Use resource string with placeholders."
+        category="Internationalization"
+        priority="6"
+        summary="TextView Internationalization"
+        explanation="When calling `TextView#setText`&#xA;* Never call `Number#toString()` to format numbers; it will not handle fraction separators and locale-specific digits properly. Consider using `String#format` with proper format specifications (`%d` or `%f`) instead.&#xA;* Do not pass a string literal (e.g. &quot;Hello&quot;) to display text. Hardcoded text can not be properly translated to other languages. Consider using Android resource strings instead.&#xA;* Do not build messages by concatenating text chunks. Such messages can not be properly translated."
+        url="http://developer.android.com/guide/topics/resources/localization.html"
+        urls="http://developer.android.com/guide/topics/resources/localization.html"
+        errorLine1="   editText.setText(before + text + after);"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java"
+            line="307"
+            column="21"/>
+    </issue>
+
+</issues>
