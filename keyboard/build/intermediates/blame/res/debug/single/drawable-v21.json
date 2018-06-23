@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/4ec4347df0d09ce48234ac3be6aa73c6b3f57917/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/4ec4347df0d09ce48234ac3be6aa73c6b3f57917/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/4ec4347df0d09ce48234ac3be6aa73c6b3f57917/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/naumanhaider/Documents/AndroidStudioProjects/keyboard-module/keyboard/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/naumanhaider/.android/build-cache/78ab9d6c69ac7305ac04671ece98123395375d1c/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
