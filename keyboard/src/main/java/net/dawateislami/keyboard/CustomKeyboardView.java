@@ -3,6 +3,7 @@ package net.dawateislami.keyboard;
 import android.app.Activity;
 import android.content.Context;
 import android.inputmethodservice.KeyboardView;
+import android.os.SystemClock;
 import android.text.InputType;
 import android.text.Layout;
 import android.util.AttributeSet;
@@ -188,10 +189,19 @@ public class CustomKeyboardView extends KeyboardView
         editText.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if ((null != selectedEditText && selectedEditText != v) || getVisibility() == GONE) {
-                    selectedEditText = (EditText) v;
-                    selectKeyboard(selectedEditText);
-                }
+				if(!editText.isFocusable()) {
+					editText.setFocusableInTouchMode(true);
+					editText.setFocusable(true);
+					editText.requestFocus();
+					editText.dispatchTouchEvent(MotionEvent.obtain(SystemClock.uptimeMillis(), SystemClock.uptimeMillis(), MotionEvent.ACTION_DOWN , 0, 0, 0));
+					editText.dispatchTouchEvent(MotionEvent.obtain(SystemClock.uptimeMillis(), SystemClock.uptimeMillis(), MotionEvent.ACTION_UP , 0, 0, 0));
+				}
+				if ((null != selectedEditText && selectedEditText != v) || getVisibility() == GONE) {
+					selectedEditText = (EditText) v;
+					selectKeyboard(selectedEditText);
+				} else {
+					hideSoftKeyboard(context,editText);
+				}
             }
         });
         // Attach custom keyboard to onFocusChange
@@ -206,44 +216,44 @@ public class CustomKeyboardView extends KeyboardView
             }
         });
         // Fix for cursor movement (based on http://forum.xda-developers.com/showthread.php?t=2497237)
-        editText.setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View view, MotionEvent event) {
-                if (!isVisible()) {
-                    view.requestFocus();
-                    selectKeyboard((EditText)view);
-                }
-
-
-                switch (event.getAction()) {
-                    case MotionEvent.ACTION_DOWN:
-                    case MotionEvent.ACTION_MOVE:
-                        EditText editText = (EditText) view;
-                        Layout layout = ((EditText) view).getLayout();
-                        if (layout != null) {
-                            float x = event.getX() + editText.getScrollX();
-                            int offset = layout.getOffsetForHorizontal(0, x);
-                            if (offset > 0) {
-                                if (x > layout.getLineMax(0))
-                                    editText.setSelection(offset);
-                                else
-                                    editText.setSelection(offset - 1);
-                            }
-                        }
-                        break;
-
-                }
-
-                /*
-                int inType = editText.getInputType();       // Backup the input type
-                editText.setInputType(InputType.TYPE_NULL); // Disable standard keyboard
-                editText.onTouchEvent(event);               // Call native handler
-                editText.setInputType(inType);              // Restore input type
-*/
-
-                return true;
-            }
-        });
+//        editText.setOnTouchListener(new View.OnTouchListener() {
+//            @Override
+//            public boolean onTouch(View view, MotionEvent event) {
+//                if (!isVisible()) {
+//                    view.requestFocus();
+//                    selectKeyboard((EditText)view);
+//                }
+//
+//
+//                switch (event.getAction()) {
+//                    case MotionEvent.ACTION_DOWN:
+//                    case MotionEvent.ACTION_MOVE:
+//                        EditText editText = (EditText) view;
+//                        Layout layout = ((EditText) view).getLayout();
+//                        if (layout != null) {
+//                            float x = event.getX() + editText.getScrollX();
+//                            int offset = layout.getOffsetForHorizontal(0, x);
+//                            if (offset > 0) {
+//                                if (x > layout.getLineMax(0))
+//                                    editText.setSelection(offset);
+//                                else
+//                                    editText.setSelection(offset - 1);
+//                            }
+//                        }
+//                        break;
+//
+//                }
+//
+//                /*
+//                int inType = editText.getInputType();       // Backup the input type
+//                editText.setInputType(InputType.TYPE_NULL); // Disable standard keyboard
+//                editText.onTouchEvent(event);               // Call native handler
+//                editText.setInputType(inType);              // Restore input type
+//*/
+//
+//                return true;
+//            }
+//        });
 
         // Disable suggestions
         editText.setInputType(editText.getInputType() | InputType.TYPE_TEXT_FLAG_NO_SUGGESTIONS);
