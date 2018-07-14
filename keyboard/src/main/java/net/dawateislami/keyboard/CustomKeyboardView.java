@@ -117,6 +117,7 @@ public class CustomKeyboardView extends KeyboardView
 		// Do not show the preview balloons
 		this.setPreviewEnabled(true);
 		editText.setTextDirection(TEXT_DIRECTION_RTL);
+		editText.setGravity(Gravity.RIGHT);
 
 		if (selectedKeyboard == Keyboard.ARABIC) {
 			this.hideSoftKeyboard(context,editText);
@@ -160,6 +161,7 @@ public class CustomKeyboardView extends KeyboardView
 			setVisibility(View.GONE);
 
 			editText.setTextDirection(TEXT_DIRECTION_LTR);
+            editText.setGravity(Gravity.LEFT);
 
 			//Show Default Keyboard
 			InputMethodManager imm =

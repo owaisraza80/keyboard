@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70a9499-aa85-4db3-9072-564fa64ac08b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java" afterPath="$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java" />
-      <change beforePath="$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml" afterPath="$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml" />
+      <change beforePath="$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml" afterPath="$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml" />
+      <change beforePath="$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml" afterPath="$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,21 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arabic.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="arabic.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qwerty.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="687">
+              <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -64,8 +54,8 @@
       <file leaf-file-name="urdu.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-303">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="554">
+              <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -74,13 +64,13 @@
       <file leaf-file-name="CustomKeyboardView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="120" column="50" lean-forward="true" selection-start-line="120" selection-start-column="50" selection-end-line="120" selection-end-column="50" />
+            <state relative-caret-position="568">
+              <caret line="163" column="44" lean-forward="false" selection-start-line="163" selection-start-column="44" selection-end-line="163" selection-end-column="44" />
               <folding>
-                <element signature="e#5437#6217#0" expanded="true" />
-                <element signature="e#6216#6217#0" expanded="true" />
-                <element signature="e#6313#6638#0" expanded="true" />
-                <element signature="e#6637#6638#0" expanded="true" />
+                <element signature="e#5522#6302#0" expanded="true" />
+                <element signature="e#6301#6302#0" expanded="true" />
+                <element signature="e#6398#6723#0" expanded="true" />
+                <element signature="e#6722#6723#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2029,8 +2019,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java" />
         <option value="$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml" />
+        <option value="$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml" />
+        <option value="$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java" />
+        <option value="$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml" />
       </list>
     </option>
   </component>
@@ -2300,10 +2292,10 @@
         <state relative-caret-position="2610">
           <caret line="200" column="53" lean-forward="false" selection-start-line="200" selection-start-column="53" selection-end-line="200" selection-end-column="53" />
           <folding>
-            <element signature="e#5437#6217#0" expanded="true" />
-            <element signature="e#6216#6217#0" expanded="true" />
-            <element signature="e#6313#6638#0" expanded="true" />
-            <element signature="e#6637#6638#0" expanded="true" />
+            <element signature="e#5522#6302#0" expanded="true" />
+            <element signature="e#6301#6302#0" expanded="true" />
+            <element signature="e#6398#6723#0" expanded="true" />
+            <element signature="e#6722#6723#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2343,39 +2335,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java">
+    <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="120" column="50" lean-forward="true" selection-start-line="120" selection-start-column="50" selection-end-line="120" selection-end-column="50" />
-          <folding>
-            <element signature="e#5437#6217#0" expanded="true" />
-            <element signature="e#6216#6217#0" expanded="true" />
-            <element signature="e#6313#6638#0" expanded="true" />
-            <element signature="e#6637#6638#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-27">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="554">
+          <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="163" column="44" lean-forward="false" selection-start-line="163" selection-start-column="44" selection-end-line="163" selection-end-column="44" />
+          <folding>
+            <element signature="e#5522#6302#0" expanded="true" />
+            <element signature="e#6301#6302#0" expanded="true" />
+            <element signature="e#6398#6723#0" expanded="true" />
+            <element signature="e#6722#6723#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="687">
+          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
           <folding />
         </state>
       </provider>

@@ -4,7 +4,7 @@
     android:layout_gravity="bottom"
     android:keyHeight="55dp"
     android:layout_width="match_parent"
-     android:layout_height="wrap_content">
+    android:layout_height="wrap_content">
     <!--<Row>
         <Key android:codes="49" android:keyOutputText="1" android:keyLabel="1" android:keyEdgeFlags="left"/>
         <Key android:codes="50" android:keyOutputText="2" android:keyLabel="2"/>
@@ -55,7 +55,6 @@
         <Key android:codes="1604" android:keyOutputText="ل" android:keyLabel="ل" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-
         <Key android:codes="1584" android:keyOutputText="ذ" android:keyLabel="ذ" android:keyEdgeFlags="left"/>
         <Key android:codes="1586" android:keyOutputText="ز" android:keyLabel="ز"/>
         <Key android:codes="1588" android:keyOutputText="ش" android:keyLabel="ش"/>
@@ -71,7 +70,7 @@
     <Row android:rowEdgeFlags="bottom">
         <Key android:codes="44" android:keyOutputText="," android:keyLabel="," android:keyWidth="15%p"  android:keyEdgeFlags="left"/>
         <Key android:codes="47" android:keyOutputText="/" android:keyLabel="/" android:keyWidth="15%p" />
-        <Key android:codes="32" android:keyOutputText=" " android:keyLabel="SPACE" android:keyWidth="70%p" android:isRepeatable="true"/>
+        <Key android:codes="32" android:keyOutputText=" " android:keyLabel="SPACE" android:keyWidth="50%p" android:isRepeatable="true"/>
         <Key android:codes="66" android:keyLabel="Done" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
     </Row>
 </Keyboard>
