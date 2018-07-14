@@ -45,23 +45,6 @@ public class CustomKeyboardView extends KeyboardView
 		this.context = context;
 	}
 
-//	@Override
-//	public void onDraw(Canvas canvas) {
-//		super.onDraw(canvas);
-//		Paint paint = new Paint();
-//
-//		List<android.inputmethodservice.Keyboard.Key> keys = getKeyboard().getKeys();
-//		for (android.inputmethodservice.Keyboard.Key key : keys) {
-//			if (key.codes[0] == 0)
-//			{
-//                canvas.drawPaint(paint);
-////                paint.setColor();
-//                paint.setTextSize(16);
-//				canvas.drawText(key.label.toString(), key.x, key.y, paint);
-//			}
-//		}
-//	}
-
 	public void showWithAnimation() {
 		Animation animation = AnimationUtils
 				.loadAnimation(context,
@@ -133,6 +116,7 @@ public class CustomKeyboardView extends KeyboardView
 	public void selectKeyboard(EditText editText) {
 		// Do not show the preview balloons
 		this.setPreviewEnabled(true);
+		editText.setTextDirection(TEXT_DIRECTION_RTL);
 
 		if (selectedKeyboard == Keyboard.ARABIC) {
 			this.hideSoftKeyboard(context,editText);
@@ -174,6 +158,8 @@ public class CustomKeyboardView extends KeyboardView
 
 		} else {
 			setVisibility(View.GONE);
+
+			editText.setTextDirection(TEXT_DIRECTION_LTR);
 
 			//Show Default Keyboard
 			InputMethodManager imm =
