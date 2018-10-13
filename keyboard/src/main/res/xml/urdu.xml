@@ -64,13 +64,15 @@
         <Key android:codes="1722" android:keyOutputText="ں" android:keyLabel="ں"/>
         <Key android:codes="1606" android:keyOutputText="ن" android:keyLabel="ن"/>
         <Key android:codes="1605,-101" android:keyOutputText="م" android:keyLabel="م" android:keyEdgeFlags="right"/>
-        <Key android:codes="67" android:keyLabel="DEL" android:isRepeatable="true"/>
+        <Key android:codes="67" android:keyIcon="@drawable/sym_keyboard_delete"
+            android:keyEdgeFlags="right" android:isRepeatable="true"/>
 
     </Row>
     <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="-104" android:keyIcon="@drawable/sym_keyboard_done" android:keyWidth="15%p" android:keyEdgeFlags="left"/>
         <Key android:codes="-101" android:keyLabel="١٢٣؟" android:keyWidth="15%p"/>
+        <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="40%p" android:keyOutputText=" " android:isRepeatable="true"/>
         <Key android:codes="47" android:keyOutputText="/" android:keyLabel="/" android:keyWidth="15%p" />
-        <Key android:codes="32" android:keyOutputText=" " android:keyLabel="SPACE" android:keyWidth="50%p" android:isRepeatable="true"/>
-        <Key android:codes="66" android:keyLabel="Done" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
+        <Key android:codes="66" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
     </Row>
 </Keyboard>
