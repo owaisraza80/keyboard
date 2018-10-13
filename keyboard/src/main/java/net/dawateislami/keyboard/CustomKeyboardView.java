@@ -119,6 +119,9 @@ public class CustomKeyboardView extends KeyboardView
 		editText.setTextDirection(TEXT_DIRECTION_RTL);
 		editText.setGravity(Gravity.RIGHT);
 
+		if(null == selectedEditText)
+			selectedEditText = editText;
+
 		if (selectedKeyboard == Keyboard.ARABIC) {
 			this.hideSoftKeyboard(context,editText);
             mKeyboard = new android.inputmethodservice.Keyboard(context, net.dawateislami.keyboard.R.xml.arabic);

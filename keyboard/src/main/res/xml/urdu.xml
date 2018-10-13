@@ -68,7 +68,7 @@
 
     </Row>
     <Row android:rowEdgeFlags="bottom">
-        <Key android:codes="44" android:keyOutputText="," android:keyLabel="," android:keyWidth="15%p"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-101" android:keyLabel="١٢٣؟" android:keyWidth="15%p"/>
         <Key android:codes="47" android:keyOutputText="/" android:keyLabel="/" android:keyWidth="15%p" />
         <Key android:codes="32" android:keyOutputText=" " android:keyLabel="SPACE" android:keyWidth="50%p" android:isRepeatable="true"/>
         <Key android:codes="66" android:keyLabel="Done" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
