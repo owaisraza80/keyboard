@@ -8,7 +8,7 @@
     <dimen name="key_height">50dip</dimen>
     <string name="app_name">keyboard</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        
+        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

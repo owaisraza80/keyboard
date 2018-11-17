@@ -9,20 +9,61 @@
     <list default="true" id="a70a9499-aa85-4db3-9072-564fa64ac08b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_0_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/incremental/compileDebugAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-hdpi-v4/sym_keyboard_delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-hdpi-v4/sym_keyboard_delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-ldpi-v4/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-ldpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/xml/arabic.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/xml/arabic.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/xml/qwerty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/xml/qwerty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/xml/urdu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/packaged_res/debug/xml/urdu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/keyboard/keyboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/keyboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,88 +85,25 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urdu.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symbols_shift.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/symbols_shift.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-543" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symbols_ar.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/symbols_ar.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-388" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arabic.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="78" selection-start-line="65" selection-start-column="78" selection-end-line="66" selection-end-column="134" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/keyboard/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            <state relative-caret-position="270">
+              <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor">
+          <provider editor-type-id="android-manifest">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-            </state>
           </provider>
         </entry>
       </file>
@@ -2261,13 +2239,13 @@
       <list>
         <option value="$PROJECT_DIR$/keyboard/src/main/res/xml/qwerty.xml" />
         <option value="$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml" />
-        <option value="$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java" />
         <option value="$PROJECT_DIR$/local.properties" />
-        <option value="$PROJECT_DIR$/keyboard/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml" />
+        <option value="$PROJECT_DIR$/keyboard/build.gradle" />
+        <option value="$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2282,30 +2260,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="keyboard-module" type="1abcf292:AndroidViewProjectNode" />
-              <item name="keyboard" type="e9137016:NonAndroidModuleNode" />
+              <item name="keyboard" type="feadf853:AndroidModuleNode" />
             </path>
             <path>
               <item name="keyboard-module" type="1abcf292:AndroidViewProjectNode" />
-              <item name="keyboard" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="keyboard" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
             </path>
             <path>
               <item name="keyboard-module" type="1abcf292:AndroidViewProjectNode" />
-              <item name="keyboard" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="keyboard" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="keyboard-module" type="1abcf292:AndroidViewProjectNode" />
-              <item name="keyboard" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboard" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="keyboard" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="keyboard-module" type="1abcf292:AndroidViewProjectNode" />
@@ -2315,7 +2294,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2358,6 +2336,7 @@
       </option>
       <patterns />
       <method>
+        <option name="Make" enabled="false" />
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
@@ -2696,16 +2675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/symbols_ur.xml" />
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/java/net/dawateislami/keyboard/CustomKeyboardView.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2754,21 +2723,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/arabic.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="78" selection-start-line="65" selection-start-column="78" selection-end-line="66" selection-end-column="134" />
+        <state relative-caret-position="134">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/symbols_shift.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-543" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/symbols_ar.xml">
@@ -2776,11 +2733,33 @@
         <state relative-caret-position="-388" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/symbols_shift.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/src/main/res/xml/urdu.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
   </component>
