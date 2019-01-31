@@ -17,6 +17,8 @@ import android.view.animation.AnimationUtils;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
+import net.dawateislami.keyboard.Util.KeyClickListener;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -37,12 +39,18 @@ public class CustomKeyboardView extends KeyboardView
 
 	private android.inputmethodservice.Keyboard mKeyboard;
 
+	private KeyClickListener returnListener;
+
 	public enum Keyboard {
 		ARABIC,URDU,DEFAULT
 	}
 	public CustomKeyboardView(Context context, AttributeSet attrs) {
 		super(context, attrs);
 		this.context = context;
+	}
+
+	public void setReturnKeyListener(KeyClickListener returnListener) {
+		this.returnListener = returnListener;
 	}
 
 	public void showWithAnimation() {
@@ -302,11 +310,21 @@ public class CustomKeyboardView extends KeyboardView
 
 		@Override
 		public void onText(CharSequence text) {
-			int cursorPosition = editText.getSelectionEnd();
-			String before = editText.getText().toString().substring(0, cursorPosition);
-			String after = editText.getText().toString().substring(cursorPosition);
-			editText.setText(before + text + after);
-			editText.setSelection(cursorPosition + 1);
+
+			int cursorPosition = 0;
+			try {
+
+				cursorPosition = editText.getSelectionEnd();
+				String before = editText.getText().toString().substring(0, cursorPosition);
+				String after = editText.getText().toString().substring(cursorPosition);
+				editText.setText(before + text + after);
+				editText.setSelection(cursorPosition + 1);
+			}
+			catch (Exception ae)
+			{
+				editText.setSelection(cursorPosition );
+				ae.printStackTrace();
+			}
 		}
 
 		@Override
@@ -329,7 +347,10 @@ public class CustomKeyboardView extends KeyboardView
 							new KeyEvent(eventTime, eventTime, KeyEvent.ACTION_DOWN, primaryCode, 0, 0, 0, 0,
 									KeyEvent.FLAG_SOFT_KEYBOARD | KeyEvent.FLAG_KEEP_TOUCH_MODE);
 
-					mTargetActivity.dispatchKeyEvent(event);
+					if(null != returnListener)
+						returnListener.onKeyClick(event);
+					else
+						mTargetActivity.dispatchKeyEvent(event);
 					break;
                 case -101:
                     displayKeyboardView
