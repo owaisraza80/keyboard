@@ -20,14 +20,14 @@
     </Row>
     
     <Row>
-        <Key android:codes="0" android:keyLabel="َ" android:keyOutputText="َ" android:keyEdgeFlags="left"/>
-        <Key android:codes="0" android:keyLabel="ً" android:keyOutputText="ً"/>
-        <Key android:codes="0" android:keyLabel="ُ" android:keyOutputText="ُ"/>
-        <Key android:codes="0" android:keyLabel="ٌ" android:keyOutputText="ٌ"/>
-        <Key android:codes="0" android:keyLabel="ّ" android:keyOutputText="ّ"/>
-        <Key android:codes="0" android:keyLabel="ْ" android:keyOutputText="ْ"/>
-        <Key android:codes="0" android:keyLabel="ِ" android:keyOutputText="ِ"/>
-        <Key android:codes="0" android:keyLabel="ٍ" android:keyOutputText="ٍ"/>
+        <Key android:codes="1614" android:keyLabel="َ" android:keyOutputText="َ" android:keyEdgeFlags="left"/>
+        <Key android:codes="1611" android:keyLabel="ً" android:keyOutputText="ً" />
+        <Key android:codes="1615" android:keyLabel="ُ" android:keyOutputText="ُ" />
+        <Key android:codes="1612" android:keyLabel="ٌ" android:keyOutputText="ٌ"/>
+        <Key android:codes="1617" android:keyLabel="ّ" android:keyOutputText="ّ"/>
+        <Key android:codes="1618" android:keyLabel="ْ" android:keyOutputText="ْ"/>
+        <Key android:codes="1616" android:keyLabel="ِ" android:keyOutputText="ِ" />
+        <Key android:codes="1613" android:keyLabel="ٍ" android:keyOutputText="ٍ"/>
         <Key android:codes="0" android:keyLabel="؟" android:keyOutputText="؟"/>
         <Key android:codes="0" android:keyLabel="؛" android:keyOutputText="؛" android:keyEdgeFlags="right"/>
     </Row>
@@ -35,12 +35,11 @@
     <Row>
         <Key android:codes="0" android:keyLabel=""/>
         <Key android:codes="0" android:keyLabel=""/>
-        <Key android:codes="0" android:keyLabel="،" android:keyOutputText="ء"/>
+        <Key android:codes="1620" android:keyLabel="ٔ" android:keyOutputText="ٔ"/>
         <Key android:codes="0" android:keyLabel="ـ" android:keyOutputText="ـ"/>
         <Key android:codes="0" android:keyLabel="٬" android:keyOutputText="٬"/>
-        <Key android:codes="0" android:keyLabel="٠" android:keyOutputText="٠"/>
-        <Key android:codes="1144" android:keyLabel="ء" android:keyOutputText="ء"/>
-        <!--<Key android:codes="1145" android:keyLabel="ٶ" android:keyOutputText="ٶ"/>-->
+        <Key android:codes="1632" android:keyLabel="٠" android:keyOutputText="٠"/>
+        <Key android:codes="1621" android:keyLabel="ٕ" android:keyOutputText="ٕ"/>
         <Key android:codes="0" android:keyLabel=""/>
         <Key android:codes="0" android:keyLabel=""/>
         <Key android:codes="67" android:keyIcon="@drawable/sym_keyboard_delete"
