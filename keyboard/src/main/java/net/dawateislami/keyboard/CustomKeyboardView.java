@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.inputmethodservice.KeyboardView;
 import android.os.SystemClock;
+import android.text.InputFilter;
 import android.text.InputType;
 import android.text.Layout;
 import android.util.AttributeSet;
@@ -19,6 +20,7 @@ import android.widget.EditText;
 
 import net.dawateislami.keyboard.Util.KeyClickListener;
 
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -310,6 +312,29 @@ public class CustomKeyboardView extends KeyboardView
 
 		@Override
 		public void onText(CharSequence text) {
+            InputFilter[] inputFilters = editText.getFilters();
+            Integer maxLengthOfText = null;
+
+            for(InputFilter filter : inputFilters) {
+                if (filter instanceof InputFilter.LengthFilter) {
+                    try {
+                        InputFilter.LengthFilter t = (InputFilter.LengthFilter) filter;
+
+                        Field field = InputFilter.LengthFilter.class.getDeclaredField("mMax");
+                        field.setAccessible(true);
+                        Object value = field.get(t);
+
+                        maxLengthOfText = (Integer) value;
+                    } catch (NoSuchFieldException | IllegalAccessException e) {
+                        e.printStackTrace();
+                    } catch (Throwable t) {
+                        t.printStackTrace();
+                    }
+                }
+            }
+
+            if(null != maxLengthOfText && text.length() >= maxLengthOfText)
+                return;
 
 			int cursorPosition = 0;
 			try {
